@@ -1,0 +1,116 @@
+Report for Institution Code CSUC, Resource csuc_verts
+Usage stats for June, 2015, generated on 2015/07/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 7
+Number of records retrieved in searches: 16
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: United States ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-06-12 ; Times: 2
+	Date: 2015-06-13 ; Times: 1
+	Date: 2015-06-25 ; Times: 2
+	Date: 2015-06-26 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "recordedby:mankins" ; Times: 1
+	Query: "Oncorhynchus aguabonita" ; Times: 1
+	Query: "common eider skin" ; Times: 2
+	Query: "recordedby:Mankins" ; Times: 1
+	Query: "tadorna tadorna" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 38 (out of 1524 download events in this period)
+Total number of records downloaded: 448 (out of 2759084 records downloaded for all resources in this period)
+Total number of unique records downloaded: 365
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Denmark ; Times: 2
+	Country: Germany ; Times: 2
+	Country: Guatemala ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: United States ; Times: 30
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-06-01 ; Times: 2
+	Date: 2015-06-02 ; Times: 2
+	Date: 2015-06-05 ; Times: 3
+	Date: 2015-06-07 ; Times: 1
+	Date: 2015-06-09 ; Times: 11
+	Date: 2015-06-10 ; Times: 1
+	Date: 2015-06-11 ; Times: 1
+	Date: 2015-06-15 ; Times: 1
+	Date: 2015-06-16 ; Times: 3
+	Date: 2015-06-19 ; Times: 2
+	Date: 2015-06-20 ; Times: 3
+	Date: 2015-06-24 ; Times: 1
+	Date: 2015-06-25 ; Times: 3
+	Date: 2015-06-26 ; Times: 1
+	Date: 2015-06-27 ; Times: 1
+	Date: 2015-06-29 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "black-legged kittiwake type:specimen" ; Times: 1
+	Query: "Illinois" ; Times: 1
+	Query: "sciurus carolinensis" ; Times: 1
+	Query: "trochilidae" ; Times: 1
+	Query: "Myotis volans country:"United States"" ; Times: 1
+	Query: "Myotis yumanensis country:"United States"" ; Times: 1
+	Query: "tamias umbrinus" ; Times: 2
+	Query: "country:"United States" genus:Ictalurus" ; Times: 1
+	Query: "turkey" ; Times: 1
+	Query: "Corynorhinus townsendii country:"United States"" ; Times: 1
+	Query: "Tamias minimus" ; Times: 1
+	Query: "rynchops niger type:specimen" ; Times: 1
+	Query: "Lasiurus cinereus country:"United States"" ; Times: 1
+	Query: ""didelphis virginiana"" ; Times: 1
+	Query: "Jordan" ; Times: 1
+	Query: "pyrocephalus rubinus" ; Times: 1
+	Query: "sciurus niger rufiventer" ; Times: 1
+	Query: "Antrozous pallidus country:"United States"" ; Times: 1
+	Query: "country:"United States" genus:ictalurus" ; Times: 1
+	Query: "type:specimen country:"United States" specificepithet:pennanti class:Mammalia" ; Times: 1
+	Query: "pelagic cormorant type:specimen" ; Times: 1
+	Query: "Selasphorus rufus" ; Times: 1
+	Query: "Canis latrans" ; Times: 1
+	Query: "Butorides virescens" ; Times: 1
+	Query: "tufted puffin type:specimen" ; Times: 1
+	Query: "Sigmodon hispidus" ; Times: 1
+	Query: "Leptonycteris yerbabuenae" ; Times: 1
+	Query: "guatemala" ; Times: 1
+	Query: "Myotis evotis country:"United States"" ; Times: 1
+	Query: "elanus leucurus stateprovince:"California"" ; Times: 1
+	Query: "Myotis thysanodes country:"United States"" ; Times: 1
+	Query: "Lasionycteris noctivagans country:"United States"" ; Times: 1
+	Query: "type:specimen specificepithet:melodia genus:Melospiza OR Zonotrichia" ; Times: 1
+	Query: "anas rubripes" ; Times: 1
+	Query: "Eptesicus fuscus country:"United States"" ; Times: 2
+	Query: "Calypte anna" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 31
+Total number of records retrieved from searches: 221
+Number of download events that retrieved data from the resource: 89
+Total number of records downloaded: 6552
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 31
+Total number of records retrieved from searches: 221
+Number of download events that retrieved data from the resource: 89
+Total number of records downloaded: 6552
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
