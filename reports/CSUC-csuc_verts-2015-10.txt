@@ -1,0 +1,111 @@
+Report for Institution Code CSUC, Resource csuc_verts
+Usage stats for October 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 15
+Number of records retrieved in searches: 502
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 1
+	Country: Unknown ; Times: 5
+	Country: United States ; Times: 8
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-04 ; Times: 3
+	Date: 2015-10-11 ; Times: 9
+	Date: 2015-10-12 ; Times: 1
+	Date: 2015-10-21 ; Times: 1
+	Date: 2015-10-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "california state university chico" ; Times: 1
+	Query: "procyon lotor illinois" ; Times: 2
+	Query: "catalognumber:2835" ; Times: 1
+	Query: "paradisaea apoda" ; Times: 5
+	Query: "gbifdatasetid:08dc18e5-e3c0-4f74-b49a-b8274aabe020" ; Times: 1
+	Query: "Lemmiscus curtatus" ; Times: 1
+	Query: "csuc" ; Times: 3
+	Query: "crax alector alector" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 59 (out of 823 download events in this period)
+Total number of records downloaded: 2091
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: Mexico ; Times: 8
+	Country: Unknown ; Times: 5
+	Country: United States ; Times: 42
+	Country: Colombia ; Times: 1
+	Country: Venezuela ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-16 ; Times: 5
+	Date: 2015-10-17 ; Times: 1
+	Date: 2015-10-14 ; Times: 2
+	Date: 2015-10-15 ; Times: 2
+	Date: 2015-10-13 ; Times: 1
+	Date: 2015-10-10 ; Times: 1
+	Date: 2015-10-18 ; Times: 1
+	Date: 2015-10-19 ; Times: 2
+	Date: 2015-10-29 ; Times: 8
+	Date: 2015-10-28 ; Times: 1
+	Date: 2015-10-26 ; Times: 1
+	Date: 2015-10-25 ; Times: 1
+	Date: 2015-10-23 ; Times: 1
+	Date: 2015-10-22 ; Times: 1
+	Date: 2015-10-20 ; Times: 3
+	Date: 2015-10-05 ; Times: 1
+	Date: 2015-10-04 ; Times: 1
+	Date: 2015-10-07 ; Times: 1
+	Date: 2015-10-01 ; Times: 1
+	Date: 2015-10-03 ; Times: 1
+	Date: 2015-10-02 ; Times: 1
+	Date: 2015-10-09 ; Times: 3
+	Date: 2015-10-08 ; Times: 5
+	Date: 2015-10-30 ; Times: 9
+	Date: 2015-10-31 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Aquila chrysaetos" ; Times: 2
+	Query: "cardinalis cardinalis" ; Times: 1
+	Query: "sciurus carolinensis" ; Times: 1
+	Query: "Geococcyx californianus" ; Times: 1
+	Query: "class:aves stateprovince:California" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "american tree sparrow" ; Times: 1
+	Query: "ovis aries" ; Times: 1
+	Query: "Sciurus niger" ; Times: 1
+	Query: "aves venezuela" ; Times: 1
+	Query: "pecari tajacu mexico" ; Times: 1
+	Query: "spheniscidae type:specimen class:aves" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 21
+	Query: "puma concolor" ; Times: 2
+	Query: "family:spheniscidae" ; Times: 1
+	Query: "sus scrofa" ; Times: 1
+	Query: "Lontra canadensis" ; Times: 1
+	Query: "Cyanocitta stelleri type:specimen stateprovince:&#34;California&#34; year &gt;= 1960" ; Times: 1
+	Query: "Coccyzus americanus" ; Times: 1
+	Query: "order:primates" ; Times: 1
+	Query: "specificepithet:scrofa genus:sus" ; Times: 1
+	Query: "Balantiopteryx plicata" ; Times: 1
+	Query: "sora" ; Times: 1
+	Query: "Selasphorus rufus type:specimen" ; Times: 1
+	Query: "Aphelocoma californica type:specimen stateprovince:&#34;California&#34; year &gt;= 1960" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Nevada&#34;" ; Times: 2
+	Query: "lontra canadensis" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;New Mexico&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "Sciurus carolinensis" ; Times: 1
+	Query: "north american porcupine" ; Times: 2
+	Query: "kangaroo" ; Times: 1
+	Query: "Erethizon dorsatum" ; Times: 1
+	Query: "cervus elaphus" ; Times: 1
+	Query: "ammospermophilus leucurus" ; Times: 1
+
+
+End of report.
