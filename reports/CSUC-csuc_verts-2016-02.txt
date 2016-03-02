@@ -1,0 +1,109 @@
+Report for Institution Code CSUC, Resource csuc_verts
+Usage stats for February 2016, generated on 2016/03/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 24
+Number of records retrieved in searches: 349
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 18
+	Country: Canada ; Times: 1
+	Country: Netherlands ; Times: 1
+	Country: Germany ; Times: 2
+	Country: France ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-02-09 ; Times: 1
+	Date: 2016-02-08 ; Times: 1
+	Date: 2016-02-18 ; Times: 2
+	Date: 2016-02-20 ; Times: 2
+	Date: 2016-02-26 ; Times: 1
+	Date: 2016-02-25 ; Times: 1
+	Date: 2016-02-12 ; Times: 10
+	Date: 2016-02-13 ; Times: 1
+	Date: 2016-02-05 ; Times: 3
+	Date: 2016-02-17 ; Times: 1
+	Date: 2016-02-06 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Mankins" ; Times: 5
+	Query: "specificepithet:tenellus genus:Sorex" ; Times: 1
+	Query: "pangolin" ; Times: 1
+	Query: "Myocastor coypus" ; Times: 2
+	Query: "institutioncode:csuc Mankins" ; Times: 4
+	Query: "Anas gibberifrons" ; Times: 1
+	Query: "gbifdatasetid:08dc18e5-e3c0-4f74-b49a-b8274aabe020" ; Times: 1
+	Query: "type:specimen class:aves county:&#34;clermont&#34; stateprovince:&#34;ohio&#34;" ; Times: 1
+	Query: "genus:peromyscus stateprovince:Nevada year&gt;=2005" ; Times: 1
+	Query: "Anas diazi" ; Times: 1
+	Query: "Triakis semifasciata" ; Times: 1
+	Query: "institutioncode:csuc" ; Times: 1
+	Query: "Mottled duck" ; Times: 1
+	Query: "strigiformes type:specimen institutioncode:CSUC" ; Times: 1
+	Query: "black-legged kittiwake california" ; Times: 1
+	Query: "mottled duck" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 53 (out of 512 download events in this period)
+Total number of records downloaded: 1425
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 13
+	Country: Unknown ; Times: 18
+	Country: Canada ; Times: 1
+	Country: Chile ; Times: 1
+	Country: Mexico ; Times: 20
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-02-23 ; Times: 2
+	Date: 2016-02-02 ; Times: 3
+	Date: 2016-02-16 ; Times: 3
+	Date: 2016-02-18 ; Times: 7
+	Date: 2016-02-17 ; Times: 2
+	Date: 2016-02-09 ; Times: 1
+	Date: 2016-02-22 ; Times: 2
+	Date: 2016-02-21 ; Times: 1
+	Date: 2016-02-19 ; Times: 9
+	Date: 2016-02-27 ; Times: 4
+	Date: 2016-02-26 ; Times: 1
+	Date: 2016-02-25 ; Times: 2
+	Date: 2016-02-24 ; Times: 2
+	Date: 2016-02-12 ; Times: 1
+	Date: 2016-02-13 ; Times: 4
+	Date: 2016-02-03 ; Times: 1
+	Date: 2016-02-01 ; Times: 1
+	Date: 2016-02-05 ; Times: 2
+	Date: 2016-02-10 ; Times: 2
+	Date: 2016-02-14 ; Times: 2
+	Date: 2016-02-15 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "county:&#34;Coconino&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "enhydra lutris nereis" ; Times: 1
+	Query: "castor canadensis" ; Times: 1
+	Query: "Puma concolor" ; Times: 5
+	Query: "Strigidae" ; Times: 1
+	Query: "specificepithet:tenellus genus:Sorex" ; Times: 1
+	Query: "sinaloa" ; Times: 1
+	Query: "sculpin" ; Times: 1
+	Query: "Callospermophilus lateralis" ; Times: 3
+	Query: "myotis thysanodes" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 18
+	Query: "puma concolor" ; Times: 8
+	Query: "Meleagris gallopavo" ; Times: 1
+	Query: "Bos taurus" ; Times: 1
+	Query: "ochotona princeps" ; Times: 1
+	Query: "specificepithet:asio genus:Megascops" ; Times: 1
+	Query: "genus:sorex (NOT institutioncode:USNM)" ; Times: 1
+	Query: "pika" ; Times: 1
+	Query: "PUMA CONCOLOR" ; Times: 2
+	Query: "type:specimen class:aves county:&#34;clermont&#34; stateprovince:&#34;ohio&#34;" ; Times: 1
+	Query: "Puma Concolor" ; Times: 1
+	Query: "genus:martes continent:north america" ; Times: 1
+
+
+End of report.
