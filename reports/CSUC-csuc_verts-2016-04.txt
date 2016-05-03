@@ -1,0 +1,159 @@
+Report for Institution Code CSUC, Resource csuc_verts
+Usage stats for April 2016, generated on 2016/05/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 10
+Number of records retrieved in searches: 310
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+	Country: Canada ; Times: 1
+	Country: Panama ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: Unknown ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-22 ; Times: 1
+	Date: 2016-04-10 ; Times: 1
+	Date: 2016-04-29 ; Times: 1
+	Date: 2016-04-18 ; Times: 1
+	Date: 2016-04-08 ; Times: 2
+	Date: 2016-04-17 ; Times: 1
+	Date: 2016-04-25 ; Times: 1
+	Date: 2016-04-13 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "ochotona bodie year &gt;= 1960 year &lt;= 1980" ; Times: 1
+	Query: "type:specimen specificepithet:nigrescens genus:Setophaga" ; Times: 1
+	Query: "Platyrhinoidis triseriata" ; Times: 1
+	Query: "family:molossidae order:chiroptera county:&#34;san bernardino&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "gbifdatasetid:08dc18e5-e3c0-4f74-b49a-b8274aabe020" ; Times: 2
+	Query: "M. McLeod" ; Times: 1
+	Query: "skin specificepithet:notabilis genus:Anisognathus" ; Times: 1
+	Query: "type:specimen specificepithet:nigrescens genus:Setophaga month &gt;= 1 month &lt;= 4" ; Times: 1
+	Query: "csuc tamiasciurus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 181 (out of 1312 download events in this period)
+Total number of records downloaded: 5436
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Portugal ; Times: 6
+	Country: Mexico ; Times: 9
+	Country: Unknown ; Times: 21
+	Country: Panama ; Times: 43
+	Country: United States ; Times: 100
+	Country: New Zealand ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-03 ; Times: 4
+	Date: 2016-04-28 ; Times: 3
+	Date: 2016-04-07 ; Times: 2
+	Date: 2016-04-06 ; Times: 9
+	Date: 2016-04-05 ; Times: 3
+	Date: 2016-04-04 ; Times: 2
+	Date: 2016-04-21 ; Times: 3
+	Date: 2016-04-20 ; Times: 7
+	Date: 2016-04-09 ; Times: 5
+	Date: 2016-04-22 ; Times: 24
+	Date: 2016-04-25 ; Times: 7
+	Date: 2016-04-24 ; Times: 5
+	Date: 2016-04-27 ; Times: 9
+	Date: 2016-04-26 ; Times: 6
+	Date: 2016-04-08 ; Times: 2
+	Date: 2016-04-18 ; Times: 3
+	Date: 2016-04-19 ; Times: 21
+	Date: 2016-04-14 ; Times: 12
+	Date: 2016-04-15 ; Times: 17
+	Date: 2016-04-16 ; Times: 4
+	Date: 2016-04-17 ; Times: 5
+	Date: 2016-04-10 ; Times: 1
+	Date: 2016-04-11 ; Times: 2
+	Date: 2016-04-12 ; Times: 7
+	Date: 2016-04-13 ; Times: 3
+	Date: 2016-04-29 ; Times: 1
+	Date: 2016-04-23 ; Times: 14
+
+List of queries that retrieved data from the resource: 
+	Query: "ATHERINOPSIDAE" ; Times: 2
+	Query: "mammals of new mexico" ; Times: 7
+	Query: "SPARIDAE" ; Times: 1
+	Query: "SCIAENIDAE" ; Times: 1
+	Query: "tamiasciurus hudsonicus" ; Times: 1
+	Query: "Platyrhinoidis triseriata" ; Times: 1
+	Query: "specificepithet:striatus genus:Accipiter tissue:1" ; Times: 1
+	Query: "CARANGIDAE" ; Times: 1
+	Query: "type:specimen genus:Sciurus stateprovince:&#34;Indiana&#34;" ; Times: 1
+	Query: "sciurus carolinensis" ; Times: 1
+	Query: "type:specimen specificepithet:niger genus:Sciurus" ; Times: 1
+	Query: "SPHYRNIDAE" ; Times: 1
+	Query: "PARALICHTHYIDAE" ; Times: 1
+	Query: "Sciurus niger AND preparations:skull" ; Times: 1
+	Query: "CHIMAERIDAE" ; Times: 1
+	Query: "type:specimen specificepithet:griseus genus:Sciurus" ; Times: 1
+	Query: "Sciurus griseus" ; Times: 1
+	Query: "ENGRAULIDAE" ; Times: 2
+	Query: "TRICHIURIDAE" ; Times: 1
+	Query: "SCORPAENIDAE" ; Times: 1
+	Query: "Urocitellus beldingi beldingi (California)" ; Times: 1
+	Query: "BELONIDAE" ; Times: 1
+	Query: "EMBIOTOCIDAE" ; Times: 1
+	Query: "ACIPENSERIDAE" ; Times: 1
+	Query: "phoebastria" ; Times: 1
+	Query: "sciurus aberti" ; Times: 1
+	Query: "PLEURONECTIDAE" ; Times: 1
+	Query: "type:specimen specificepithet:carolinensis genus:Sciurus" ; Times: 1
+	Query: "Sciurus niger" ; Times: 1
+	Query: "ochotona bodie" ; Times: 1
+	Query: "GOBIIDAE" ; Times: 1
+	Query: "CALLICHTHYIDAE" ; Times: 2
+	Query: "microtus pennsylvanicus" ; Times: 1
+	Query: "mammals texas" ; Times: 1
+	Query: "Callospermophilus lateralis" ; Times: 8
+	Query: "RHINOBATIDAE" ; Times: 1
+	Query: "POECILIIDAE" ; Times: 1
+	Query: "dipodomys deserti" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 85
+	Query: "LEPISOSTEIDAE" ; Times: 1
+	Query: "Erethizon dorsatum epixanthum" ; Times: 1
+	Query: "ECHENEIDAE" ; Times: 1
+	Query: "MUGILIDAE" ; Times: 1
+	Query: "tamias striatus" ; Times: 1
+	Query: "SQUALIDAE" ; Times: 1
+	Query: "BATRACHOIDIDAE" ; Times: 1
+	Query: "phoebastria nigripes" ; Times: 1
+	Query: "Geomyidae" ; Times: 1
+	Query: "COTTIDAE" ; Times: 3
+	Query: "glaucomys" ; Times: 1
+	Query: "ARHYNCHOBATIDAE" ; Times: 1
+	Query: "MYLIOBATIDAE" ; Times: 1
+	Query: "SYNGNATHIDAE" ; Times: 1
+	Query: "toucan" ; Times: 1
+	Query: "tamias umbrinus" ; Times: 1
+	Query: "Sciurus carolinensis AND preparations:skull type:specimen" ; Times: 1
+	Query: "MORONIDAE" ; Times: 1
+	Query: "Sciurus griseus AND preparations:skull type:specimen" ; Times: 1
+	Query: "TRIAKIDAE" ; Times: 1
+	Query: "HEMIRAMPHIDAE" ; Times: 1
+	Query: "FUNDULIDAE" ; Times: 1
+	Query: "genus:Spilogale" ; Times: 1
+	Query: "AMMODYTIDAE" ; Times: 1
+	Query: "type:specimen genus:Sciurus stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "CYPRINODONTIDAE" ; Times: 1
+	Query: "Pileated Woodpecker" ; Times: 2
+	Query: "type:specimen genus:Sciurus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "thomomys bottae" ; Times: 3
+	Query: "dipodomys deserti (nevada)" ; Times: 2
+	Query: "CLUPEIDAE" ; Times: 2
+	Query: "CYNOGLOSSIDAE" ; Times: 1
+	Query: "specificepithet:leucopus genus:Peromyscus continent:North America" ; Times: 1
+	Query: "SERRANIDAE" ; Times: 1
+	Query: "Sturnus vulgaris" ; Times: 1
+
+
+End of report.
