@@ -1,0 +1,75 @@
+Report for Institution Code CSUC, Resource csuc_verts
+Usage stats for May 2016, generated on 2016/06/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 12
+Number of records retrieved in searches: 334
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 10
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-16 ; Times: 1
+	Date: 2016-05-27 ; Times: 1
+	Date: 2016-05-25 ; Times: 4
+	Date: 2016-05-22 ; Times: 1
+	Date: 2016-05-23 ; Times: 1
+	Date: 2016-05-31 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:senex genus:Tamias institutioncode:CSUC" ; Times: 1
+	Query: "specificepithet:siskiyou genus:Tamias institutioncode:CSUC" ; Times: 1
+	Query: "specificepithet:alpinus genus:Tamias" ; Times: 1
+	Query: "specificepithet:exilis genus:Strongylura" ; Times: 1
+	Query: "Sus scrofa " ; Times: 1
+	Query: "specificepithet:henlei genus:Mustelus" ; Times: 3
+	Query: "specificepithet:ruficaudus genus:Tamias institutioncode:CSUC" ; Times: 1
+	Query: "Sturnus vulgaris" ; Times: 1
+	Query: "specificepithet:amoenus genus:Tamias institutioncode:CSUC" ; Times: 1
+	Query: "specificepithet:carpio genus:Cyprinus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 17 (out of 327 download events in this period)
+Total number of records downloaded: 1098
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 8
+	Country: Canada ; Times: 1
+	Country: China ; Times: 3
+	Country: Mexico ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-19 ; Times: 2
+	Date: 2016-05-04 ; Times: 1
+	Date: 2016-05-01 ; Times: 1
+	Date: 2016-05-15 ; Times: 1
+	Date: 2016-05-13 ; Times: 2
+	Date: 2016-05-12 ; Times: 4
+	Date: 2016-05-06 ; Times: 1
+	Date: 2016-05-05 ; Times: 2
+	Date: 2016-05-22 ; Times: 2
+	Date: 2016-05-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 2
+	Query: "Peromyscus" ; Times: 1
+	Query: "specificepithet:virginiana genus:Didelphis" ; Times: 1
+	Query: "Chamaea" ; Times: 1
+	Query: "genus:Lepus continent:North America" ; Times: 2
+	Query: "puma concolor" ; Times: 1
+	Query: "Marmota marmota" ; Times: 1
+	Query: "Timaliidae" ; Times: 1
+	Query: "Canis type:specimen" ; Times: 1
+	Query: "calypte anna" ; Times: 1
+	Query: "family:Atherinopsidae class:Actinopterygii country:&#34;MEXICO&#34;" ; Times: 1
+	Query: "gasterosteus" ; Times: 1
+	Query: "PUMA CONCOLOR" ; Times: 2
+	Query: "Zosterops" ; Times: 1
+
+
+End of report.
