@@ -1,0 +1,151 @@
+Report for Institution Code CSUC, Resource csuc_verts
+Usage stats for July 2016, generated on 2016/08/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 66
+Number of records retrieved in searches: 853
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Portugal ; Times: 8
+	Country: Unknown ; Times: 2
+	Country: France ; Times: 5
+	Country: United States ; Times: 44
+	Country: Peru ; Times: 1
+	Country: Japan ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-07-27 ; Times: 2
+	Date: 2016-07-06 ; Times: 5
+	Date: 2016-07-21 ; Times: 2
+	Date: 2016-07-22 ; Times: 5
+	Date: 2016-07-05 ; Times: 1
+	Date: 2016-07-18 ; Times: 13
+	Date: 2016-07-08 ; Times: 1
+	Date: 2016-07-28 ; Times: 7
+	Date: 2016-07-29 ; Times: 22
+	Date: 2016-07-12 ; Times: 1
+	Date: 2016-07-07 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:mykiss genus:Oncorhynchus" ; Times: 2
+	Query: "specificepithet:carpio genus:Cyprinus" ; Times: 2
+	Query: "specificepithet:variegatus genus:Cyprinodon" ; Times: 1
+	Query: "Western red bat" ; Times: 2
+	Query: "gbifdatasetid:08dc18e5-e3c0-4f74-b49a-b8274aabe020" ; Times: 3
+	Query: "specificepithet:punctatus genus:Ictalurus" ; Times: 2
+	Query: "specificepithet:lepturus genus:Trichiurus" ; Times: 1
+	Query: "sage thrasher california" ; Times: 1
+	Query: "Dendrocygna autumnalis 1" ; Times: 1
+	Query: "specificepithet:acanthias genus:Squalus" ; Times: 1
+	Query: "Aix galericulata 1" ; Times: 1
+	Query: "Neovison vison 1" ; Times: 1
+	Query: "specificepithet:tenellus genus:Sorex" ; Times: 1
+	Query: "00331" ; Times: 1
+	Query: "type:specimen catalognumber:3956" ; Times: 1
+	Query: "Trowbridge AND Island NOT Atkinson NOT Aubry" ; Times: 1
+	Query: "Trowbridge AND Island NOT Atkinson" ; Times: 1
+	Query: "specificepithet:rhodopus genus:Trachinotus" ; Times: 1
+	Query: "Pacific Loon" ; Times: 1
+	Query: "aphis" ; Times: 1
+	Query: "specificepithet:atricaudus genus:Symphurus" ; Times: 1
+	Query: "specificepithet:annularis genus:Pomoxis" ; Times: 1
+	Query: "specificepithet:cephalus genus:Mugil" ; Times: 1
+	Query: "&#34;Eurasian Collared-Dove&#34;" ; Times: 3
+	Query: "Trowbridge AND Island" ; Times: 2
+	Query: "specificepithet:cepedianum genus:Dorosoma" ; Times: 1
+	Query: "specificepithet:caballus genus:Caranx" ; Times: 1
+	Query: "08dc18e5-e3c0-4f74-b49a-b8274aabe020" ; Times: 4
+	Query: "specificepithet:sapidissima genus:Alosa" ; Times: 1
+	Query: "Oxyura jamaicensis 1" ; Times: 1
+	Query: "specificepithet:exilis genus:Strongylura" ; Times: 1
+	Query: "cyprinodon diabolis" ; Times: 3
+	Query: "class:aves stateprovince:&#34;michigan&#34; institutioncode:CSUC" ; Times: 1
+	Query: "specificepithet:affinis genus:Atherinops" ; Times: 1
+	Query: "catalognumber:1215" ; Times: 1
+	Query: "specificepithet:californiensis genus:Atherinopsis" ; Times: 1
+	Query: "Procyon lotor 1" ; Times: 8
+	Query: "specificepithet:nigromaculatus genus:Pomoxis" ; Times: 1
+	Query: "specificepithet:dorsalis genus:Tamias stateprovince:&#34;Nevada&#34;" ; Times: 2
+	Query: "Lasiurus blossevillii" ; Times: 2
+	Query: "Rattus norvegicus 1" ; Times: 2
+	Query: "specificepithet:amoenus genus:Tamias stateprovince:&#34;Nevada&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 171 (out of 1219 download events in this period)
+Total number of records downloaded: 4886
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 54
+	Country: Brazil ; Times: 1
+	Country: Netherlands ; Times: 110
+	Country: Mexico ; Times: 5
+	Country: France ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-07-11 ; Times: 11
+	Date: 2016-07-10 ; Times: 6
+	Date: 2016-07-13 ; Times: 12
+	Date: 2016-07-12 ; Times: 7
+	Date: 2016-07-15 ; Times: 1
+	Date: 2016-07-14 ; Times: 6
+	Date: 2016-07-17 ; Times: 7
+	Date: 2016-07-16 ; Times: 1
+	Date: 2016-07-19 ; Times: 9
+	Date: 2016-07-18 ; Times: 10
+	Date: 2016-07-20 ; Times: 4
+	Date: 2016-07-07 ; Times: 9
+	Date: 2016-07-05 ; Times: 1
+	Date: 2016-07-24 ; Times: 4
+	Date: 2016-07-25 ; Times: 4
+	Date: 2016-07-26 ; Times: 7
+	Date: 2016-07-27 ; Times: 4
+	Date: 2016-07-06 ; Times: 1
+	Date: 2016-07-21 ; Times: 28
+	Date: 2016-07-22 ; Times: 6
+	Date: 2016-07-23 ; Times: 1
+	Date: 2016-07-08 ; Times: 10
+	Date: 2016-07-09 ; Times: 9
+	Date: 2016-07-28 ; Times: 8
+	Date: 2016-07-29 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "strix varia" ; Times: 1
+	Query: "Otospermophilus beecheyi stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:novemcinctus genus:dasypus" ; Times: 1
+	Query: "Cavia porcellus type:specimen" ; Times: 2
+	Query: "marmota monax type:specimen" ; Times: 1
+	Query: "order:Chiroptera" ; Times: 1
+	Query: "Myotis lucifugus" ; Times: 1
+	Query: "&#34;sciurus carolinensis&#34;" ; Times: 1
+	Query: "&#34;tamias alpinus&#34;" ; Times: 1
+	Query: "Ochotona princeps" ; Times: 1
+	Query: "dasypodidae" ; Times: 1
+	Query: "Callospermophilus lateralis" ; Times: 11
+	Query: "catharus ustulatus" ; Times: 1
+	Query: "Mustela frenata" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 115
+	Query: "pimephales promelas" ; Times: 1
+	Query: "type:specimen genus:Perognathus stateprovince:&#34;Nevada&#34; year &gt;= 1951 year &lt;= 2016" ; Times: 1
+	Query: "family:dasypodidae" ; Times: 1
+	Query: "mammalia Mexico" ; Times: 4
+	Query: "Leptonycteris yerbabuenae" ; Times: 1
+	Query: "Urocitellus columbianus" ; Times: 8
+	Query: "Erethizon dorsatum type:specimen" ; Times: 1
+	Query: "perognathus" ; Times: 2
+	Query: "&#34;Anser albifrons&#34;" ; Times: 1
+	Query: "Ochotona" ; Times: 1
+	Query: "catharus guttatus" ; Times: 1
+	Query: "type:specimen specificepithet:cristata genus:cyanocitta class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "hatchling type:specimen collectioncode:Birds" ; Times: 1
+	Query: "Michigan Mammalia" ; Times: 1
+	Query: "specificepithet:virginiana genus:Didelphis preparations:skin" ; Times: 1
+	Query: "Dipodomys" ; Times: 1
+	Query: "urocitellus columbianus" ; Times: 3
+	Query: "Agelaius tricolor" ; Times: 1
+
+
+End of report.
