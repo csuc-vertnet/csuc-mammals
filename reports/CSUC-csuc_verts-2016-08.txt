@@ -1,0 +1,147 @@
+Report for Institution Code CSUC, Resource csuc_verts
+Usage stats for August 2016, generated on 2016/09/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 78
+Number of records retrieved in searches: 414
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 76
+	Country: France ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-13 ; Times: 2
+	Date: 2016-08-25 ; Times: 4
+	Date: 2016-08-19 ; Times: 10
+	Date: 2016-08-27 ; Times: 1
+	Date: 2016-08-21 ; Times: 2
+	Date: 2016-08-20 ; Times: 55
+	Date: 2016-08-30 ; Times: 2
+	Date: 2016-08-22 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:mykiss genus:Oncorhynchus" ; Times: 3
+	Query: "specificepithet:carpio genus:Cyprinus" ; Times: 24
+	Query: "specificepithet:variegatus genus:Cyprinodon" ; Times: 2
+	Query: "gbifdatasetid:08dc18e5-e3c0-4f74-b49a-b8274aabe020" ; Times: 1
+	Query: "specificepithet:thrissina genus:Harengula" ; Times: 1
+	Query: "specificepithet:punctatus genus:Ictalurus" ; Times: 5
+	Query: "specificepithet:lepturus genus:Trichiurus" ; Times: 1
+	Query: "specificepithet:acanthias genus:Squalus" ; Times: 4
+	Query: "specificepithet:triseriata genus:Platyrhinoidis" ; Times: 1
+	Query: "specificepithet:melanops genus:Sebastes" ; Times: 1
+	Query: "specificepithet:calliope stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "gilberti county:&#34;Butte&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:rhodopus genus:Trachinotus" ; Times: 1
+	Query: "specificepithet:annularis genus:Pomoxis" ; Times: 2
+	Query: "catalognumber:1726" ; Times: 2
+	Query: "specificepithet:saxatilis genus:Morone" ; Times: 3
+	Query: "CA 5051" ; Times: 1
+	Query: "specificepithet:cephalus genus:Mugil" ; Times: 4
+	Query: "specificepithet:cepedianum genus:Dorosoma" ; Times: 1
+	Query: "gilberti county:&#34;sutter&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:sapidissima genus:Alosa" ; Times: 1
+	Query: "specificepithet:exilis genus:Strongylura" ; Times: 1
+	Query: "specificepithet:vetulus genus:Parophrys" ; Times: 3
+	Query: "specificepithet:osseus genus:Lepisosteus" ; Times: 2
+	Query: "specificepithet:affinis genus:Atherinops" ; Times: 2
+	Query: "institutioncode:CSUC hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:californiensis genus:Atherinopsis" ; Times: 1
+	Query: "specificepithet:sordidus genus:Citharichthys" ; Times: 1
+	Query: "Xerospermophilus mohavensis" ; Times: 1
+	Query: "specificepithet:nigromaculatus genus:Pomoxis" ; Times: 3
+	Query: "Ash Meadows cyprinodon" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 77 (out of 924 download events in this period)
+Total number of records downloaded: 3299
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Netherlands ; Times: 4
+	Country: Mexico ; Times: 5
+	Country: Unknown ; Times: 6
+	Country: France ; Times: 6
+	Country: United States ; Times: 54
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-10 ; Times: 1
+	Date: 2016-08-11 ; Times: 1
+	Date: 2016-08-12 ; Times: 2
+	Date: 2016-08-13 ; Times: 3
+	Date: 2016-08-14 ; Times: 4
+	Date: 2016-08-15 ; Times: 6
+	Date: 2016-08-16 ; Times: 10
+	Date: 2016-08-17 ; Times: 1
+	Date: 2016-08-18 ; Times: 2
+	Date: 2016-08-19 ; Times: 2
+	Date: 2016-08-30 ; Times: 5
+	Date: 2016-08-31 ; Times: 8
+	Date: 2016-08-29 ; Times: 6
+	Date: 2016-08-28 ; Times: 3
+	Date: 2016-08-25 ; Times: 7
+	Date: 2016-08-24 ; Times: 2
+	Date: 2016-08-27 ; Times: 1
+	Date: 2016-08-26 ; Times: 2
+	Date: 2016-08-21 ; Times: 1
+	Date: 2016-08-20 ; Times: 2
+	Date: 2016-08-23 ; Times: 1
+	Date: 2016-08-22 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:truei genus:Peromyscus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "gavia" ; Times: 1
+	Query: "specificepithet:truei genus:Peromyscus stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "order:Lagomorpha hasmass:1" ; Times: 2
+	Query: "specificepithet:ordii genus:Dipodomys stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Coyote (Canis)" ; Times: 1
+	Query: "microtus oregoni" ; Times: 1
+	Query: "canis lupus" ; Times: 2
+	Query: "microtus californicus" ; Times: 1
+	Query: "order:Lagomorpha haslength:1" ; Times: 4
+	Query: "Granite Pass" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;California&#34; year &gt;= 1920 year &lt;= 2016" ; Times: 2
+	Query: "microtus pennsylvanicus" ; Times: 1
+	Query: "specificepithet:ordii genus:Dipodomys stateprovince:&#34;Idaho&#34;" ; Times: 1
+	Query: "specificepithet:montanus genus:Microtus stateprovince:&#34;California&#34; year &gt;= 1920 year &lt;= 2016" ; Times: 1
+	Query: "ovis canadensis" ; Times: 1
+	Query: "White-crowned Sparrow" ; Times: 1
+	Query: "specificepithet:ordii genus:Dipodomys stateprovince:&#34;Idaho&#34; year &gt;= 1920 year &lt;= 2016" ; Times: 1
+	Query: "specificepithet:parvus genus:Perognathus stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "specificepithet:parvus genus:Perognathus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:ochotona" ; Times: 1
+	Query: "specificepithet:ordii genus:Dipodomys stateprovince:&#34;California&#34; year &gt;= 1920 year &lt;= 2016" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 24
+	Query: "specificepithet:cinerea genus:Neotoma stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "lanius ludovicianus" ; Times: 1
+	Query: "microtus montanus" ; Times: 1
+	Query: "order:Lagomorpha hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Coccyzus americanus" ; Times: 1
+	Query: "macaca skull type:specimen" ; Times: 1
+	Query: "procyon lotor" ; Times: 1
+	Query: "Callipepla californica" ; Times: 1
+	Query: "Dipodomys nitratoides nitratoides" ; Times: 1
+	Query: "genus:Myotis hasmass:1" ; Times: 1
+	Query: "specificepithet:gracilis genus:Spilogale" ; Times: 1
+	Query: "peromyscus maniculatus" ; Times: 1
+	Query: "lontra canadensis" ; Times: 1
+	Query: "institutioncode:CSUC hasmass:1 haslength:1" ; Times: 1
+	Query: "Buteo swainsoni" ; Times: 1
+	Query: "Agelaius tricolor" ; Times: 1
+	Query: "specificepithet:domesticus genus:passer" ; Times: 1
+	Query: "Xerospermophilus mohavensis" ; Times: 1
+	Query: "specificepithet:truei genus:Peromyscus stateprovince:&#34;Nevada&#34; year &gt;= 1920 year &lt;= 2016" ; Times: 1
+	Query: "specificepithet:truei genus:Peromyscus stateprovince:&#34;California&#34; year &gt;= 1920 year &lt;= 2016" ; Times: 1
+	Query: "Apodidae" ; Times: 1
+	Query: "Ash Meadows cyprinodon" ; Times: 1
+	Query: "specificepithet:cinerea genus:Neotoma stateprovince:&#34;California&#34; year &gt;= 1920 year &lt;= 2016" ; Times: 1
+	Query: "specificepithet:montanus genus:Microtus stateprovince:&#34;California&#34;" ; Times: 1
+
+
+End of report.
