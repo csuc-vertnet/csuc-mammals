@@ -1,0 +1,90 @@
+Report for Institution Code CSUC, Resource csuc_verts
+Usage stats for May 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 11
+Number of records retrieved in searches: 33
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 6
+	Country: United Kingdom ; Times: 4
+	Country: Canada ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-04 ; Times: 3
+	Date: 2018-05-05 ; Times: 3
+	Date: 2018-05-03 ; Times: 1
+	Date: 2018-05-08 ; Times: 1
+	Date: 2018-05-28 ; Times: 1
+	Date: 2018-05-24 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:notabilis genus:Anisognathus" ; Times: 1
+	Query: "specificepithet:peruvianus genus:Rupicola" ; Times: 1
+	Query: "specificepithet:fuscipes genus:Neotoma county:&#34;Orange&#34;" ; Times: 1
+	Query: "Long-billed Dowitcher" ; Times: 1
+	Query: "specificepithet:penduliger genus:Cephalopterus" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 2010 year &lt;= 2018" ; Times: 1
+	Query: "specificepithet:Lateralis county:&#34;Trinity&#34;" ; Times: 1
+	Query: "song sparrow vntype:specimen year &gt;= 2010 year &lt;= 2018" ; Times: 1
+	Query: "specificepithet:coronata genus:Paroaria" ; Times: 1
+	Query: "class:aves recordedby:rodgers" ; Times: 1
+	Query: "specificepithet:Lateralis county:&#34;TRinity&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 23 (out of 1178 download events in this period)
+Total number of records downloaded: 274
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 18
+	Country: Canada ; Times: 3
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-06 ; Times: 1
+	Date: 2018-05-07 ; Times: 1
+	Date: 2018-05-16 ; Times: 2
+	Date: 2018-05-02 ; Times: 1
+	Date: 2018-05-10 ; Times: 1
+	Date: 2018-05-14 ; Times: 5
+	Date: 2018-05-18 ; Times: 1
+	Date: 2018-05-08 ; Times: 1
+	Date: 2018-05-09 ; Times: 2
+	Date: 2018-05-28 ; Times: 1
+	Date: 2018-05-29 ; Times: 3
+	Date: 2018-05-15 ; Times: 1
+	Date: 2018-05-25 ; Times: 1
+	Date: 2018-05-26 ; Times: 1
+	Date: 2018-05-27 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:frenata genus:mustela haslength:1" ; Times: 1
+	Query: "chiroptera mexico" ; Times: 1
+	Query: "&#34;American robin&#34; vntype:specimen specificepithet:migratorius genus:Turdus" ; Times: 1
+	Query: "molothrus ater hasmass:1" ; Times: 1
+	Query: "specificepithet:anna genus:Calypte" ; Times: 1
+	Query: "class:mammalia county:&#34;orange&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "genus:urocyon" ; Times: 1
+	Query: "neotoma macrotis" ; Times: 1
+	Query: "Hybrid vntype:specimen class:Aves" ; Times: 1
+	Query: "genus:Didelphis stateprovince:&#34;California&#34; preparations:skin" ; Times: 1
+	Query: "Procyon lotor" ; Times: 1
+	Query: "vntype:specimen specificepithet:frenata genus:Mustela stateprovince:&#34;Washington&#34; lengthtype:total length hassex:1 haslength:1" ; Times: 1
+	Query: "free-tailed bat vntype:specimen" ; Times: 1
+	Query: "percina" ; Times: 1
+	Query: "specificepithet:polyglottos genus:Mimus hasmass:1" ; Times: 1
+	Query: "Urocitellus columbianus" ; Times: 1
+	Query: "specificepithet:mexicanus genus:Catherpes hasmass:1" ; Times: 1
+	Query: "pileated woodpecker" ; Times: 1
+	Query: "puffinus creatopus" ; Times: 1
+	Query: "mountain lake biological station" ; Times: 1
+	Query: "specificepithet:mollissima genus:Somateria" ; Times: 1
+	Query: "specificepithet:dorsatum genus:Erethizon" ; Times: 1
+	Query: "coho salmon" ; Times: 1
+
+
+End of report.
