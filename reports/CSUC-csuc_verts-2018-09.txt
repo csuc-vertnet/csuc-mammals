@@ -1,0 +1,104 @@
+Report for Institution Code CSUC, Resource csuc_verts
+Usage stats for September 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 20
+Number of records retrieved in searches: 66
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 17
+	Country: Canada ; Times: 2
+	Country: Germany ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-16 ; Times: 1
+	Date: 2018-09-23 ; Times: 3
+	Date: 2018-09-11 ; Times: 1
+	Date: 2018-09-25 ; Times: 4
+	Date: 2018-09-26 ; Times: 3
+	Date: 2018-09-27 ; Times: 1
+	Date: 2018-09-05 ; Times: 1
+	Date: 2018-09-18 ; Times: 2
+	Date: 2018-09-28 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:tereticaudus genus:Xerospermophilus" ; Times: 2
+	Query: "Acipenser transmontanus" ; Times: 1
+	Query: "family:castoridae order:rodentia hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "tamias uinta nevadensis" ; Times: 1
+	Query: "genus:Phoebastria specificepithet:nigripes " ; Times: 1
+	Query: "catalognumber:4663 &#34;didelphis virginiana&#34;" ; Times: 2
+	Query: "greater sage-grouse" ; Times: 3
+	Query: "specificepithet:vulpes genus:Vulpes stateprovince:&#34;California&#34; institutioncode:CSUC" ; Times: 1
+	Query: "class:mammalia year &gt;= 2000 year &lt;= 2015 institutioncode:CSUC" ; Times: 1
+	Query: "tamias umbrinus nevadensis" ; Times: 1
+	Query: "Calico Sculpin" ; Times: 1
+	Query: "Tamias umbrinus nevadensis" ; Times: 1
+	Query: "California Clingfish" ; Times: 1
+	Query: "stateprovince:&#34;OH&#34;" ; Times: 1
+	Query: "Topsmelt" ; Times: 1
+	Query: "class:Mammalia (os clitoris)" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 32 (out of 846 download events in this period)
+Total number of records downloaded: 372
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 18
+	Country: Canada ; Times: 1
+	Country: Australia ; Times: 2
+	Country: Spain ; Times: 1
+	Country: Mexico ; Times: 10
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-17 ; Times: 2
+	Date: 2018-09-13 ; Times: 1
+	Date: 2018-09-24 ; Times: 6
+	Date: 2018-09-25 ; Times: 4
+	Date: 2018-09-26 ; Times: 1
+	Date: 2018-09-15 ; Times: 1
+	Date: 2018-09-07 ; Times: 5
+	Date: 2018-09-22 ; Times: 1
+	Date: 2018-09-16 ; Times: 2
+	Date: 2018-09-19 ; Times: 1
+	Date: 2018-09-06 ; Times: 1
+	Date: 2018-09-04 ; Times: 2
+	Date: 2018-09-18 ; Times: 4
+	Date: 2018-09-14 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Mimus polyglottos" ; Times: 1
+	Query: "genus:Circus hasmass:1" ; Times: 1
+	Query: "DRYOCOPUS PILEATUS" ; Times: 1
+	Query: "specificepithet:asio genus:Megascops basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Wolverine" ; Times: 3
+	Query: "Sula nebouxii" ; Times: 1
+	Query: "river otter" ; Times: 1
+	Query: "cyanocitta stelleri year &gt;= 1990" ; Times: 1
+	Query: "passerculus sandwichensis" ; Times: 1
+	Query: "Sus scrofa" ; Times: 1
+	Query: "tamias umbrinus nevadensis" ; Times: 1
+	Query: "egretta thula" ; Times: 2
+	Query: "NORTHERN FLICKER" ; Times: 1
+	Query: "aechmophorus occidentalis" ; Times: 1
+	Query: "county:&#34;pennington&#34; stateprovince:&#34;south dakota&#34;" ; Times: 1
+	Query: "aplodontia rufa" ; Times: 1
+	Query: "HAIRY WOODPECKER" ; Times: 1
+	Query: "specificepithet:trowbridgii genus:sorex" ; Times: 1
+	Query: "class:mammalia county:&#34;clark&#34; stateprovince:&#34;nevada&#34;" ; Times: 1
+	Query: "Urocitellus columbianus" ; Times: 2
+	Query: "sphyrapicus varius" ; Times: 1
+	Query: "racoon" ; Times: 1
+	Query: "tamias uinta nevadensis" ; Times: 1
+	Query: "didelphis virginiana" ; Times: 1
+	Query: "family:Felidae lengthtype:total length haslength:1" ; Times: 1
+	Query: "buteo jamaicensis" ; Times: 1
+	Query: "Melopsittacus" ; Times: 1
+	Query: "class:Mammalia (baculum)" ; Times: 1
+
+
+End of report.
