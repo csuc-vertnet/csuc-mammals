@@ -1,0 +1,177 @@
+Report for Institution Code CSUC, Resource csuc_verts
+Usage stats for November 2018, generated on 2018/12/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 16
+Number of records retrieved in searches: 156
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 15
+	Country: Canada ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-11-23 ; Times: 2
+	Date: 2018-11-07 ; Times: 1
+	Date: 2018-11-05 ; Times: 2
+	Date: 2018-11-04 ; Times: 2
+	Date: 2018-11-01 ; Times: 3
+	Date: 2018-11-27 ; Times: 1
+	Date: 2018-11-30 ; Times: 1
+	Date: 2018-11-22 ; Times: 1
+	Date: 2018-11-29 ; Times: 1
+	Date: 2018-11-28 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:tenellus genus:Sorex" ; Times: 1
+	Query: "genus:Phoebastria specificepithet:nigripes " ; Times: 4
+	Query: "Conner Taxidea" ; Times: 3
+	Query: "genus:puma hasmass:1" ; Times: 1
+	Query: "belmont order:rodentia stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "genus:puma haslength:1" ; Times: 2
+	Query: "genus:Vulpes stateprovince:&#34;California&#34; institutioncode:CSUC" ; Times: 1
+	Query: "Sorex tenellus" ; Times: 1
+	Query: "stateprovince:&#34;California&#34; recordedby:Arnold institutioncode:CSUC" ; Times: 1
+	Query: "family:Vespertilionidae order:chiroptera continent:North America institutioncode:CSUC" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 124 (out of 1719 download events in this period)
+Total number of records downloaded: 2702
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 7
+	Country: United States ; Times: 67
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 46
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-11-09 ; Times: 9
+	Date: 2018-11-08 ; Times: 1
+	Date: 2018-11-07 ; Times: 6
+	Date: 2018-11-06 ; Times: 8
+	Date: 2018-11-05 ; Times: 4
+	Date: 2018-11-03 ; Times: 5
+	Date: 2018-11-02 ; Times: 3
+	Date: 2018-11-01 ; Times: 1
+	Date: 2018-11-24 ; Times: 1
+	Date: 2018-11-27 ; Times: 6
+	Date: 2018-11-26 ; Times: 15
+	Date: 2018-11-20 ; Times: 1
+	Date: 2018-11-23 ; Times: 1
+	Date: 2018-11-29 ; Times: 3
+	Date: 2018-11-28 ; Times: 3
+	Date: 2018-11-11 ; Times: 11
+	Date: 2018-11-12 ; Times: 12
+	Date: 2018-11-13 ; Times: 3
+	Date: 2018-11-14 ; Times: 9
+	Date: 2018-11-15 ; Times: 19
+	Date: 2018-11-16 ; Times: 2
+	Date: 2018-11-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "northern fulmar" ; Times: 1
+	Query: "genus:Didelphis virginiana" ; Times: 1
+	Query: "Campylorhynchus brunneicapillus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "family:felidae continent:north america haslength:1" ; Times: 1
+	Query: "Lepus californicus" ; Times: 2
+	Query: "antilocapra americana" ; Times: 1
+	Query: "genus:puma hasmass:1" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 3
+	Query: "catharus ustulatus" ; Times: 1
+	Query: "pecari tajacu" ; Times: 2
+	Query: "Peromyscus maniculatus" ; Times: 1
+	Query: "family:Vespertilionidae order:chiroptera continent:North America institutioncode:CSUC" ; Times: 1
+	Query: "Ursus americanus" ; Times: 1
+	Query: "Tadarida brasiliensis" ; Times: 1
+	Query: "Canis latrans" ; Times: 1
+	Query: "yellow-billed cuckoo" ; Times: 1
+	Query: "Sylvilagus floridanus" ; Times: 1
+	Query: "Buteo buteo" ; Times: 1
+	Query: "lontra canadensis" ; Times: 3
+	Query: "Mephitis mephitis" ; Times: 1
+	Query: "Urocyon cinereoargenteus" ; Times: 1
+	Query: "urocitellus columbianus" ; Times: 1
+	Query: "Dasyprocta punctata" ; Times: 1
+	Query: "genus:Eptesicus fuscus" ; Times: 1
+	Query: "baculum vntype:specimen order:Carnivora" ; Times: 1
+	Query: "specificepithet:novemcinctus genus:Dasypus" ; Times: 1
+	Query: "puma" ; Times: 1
+	Query: "specificepithet:virginiana genus:Didelphis" ; Times: 1
+	Query: "Sphenisciformes" ; Times: 1
+	Query: "genus:Puma hassex:1" ; Times: 1
+	Query: "genus:Urocyon cinereoargenteus" ; Times: 1
+	Query: "genus:Lasiurus blossevillii" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "Antilocapra americana" ; Times: 1
+	Query: "Aquila chrysaetos" ; Times: 1
+	Query: "genus:Peromyscus leucopus" ; Times: 1
+	Query: "Nine-banded Armadillo" ; Times: 2
+	Query: "tadarida brasiliensis" ; Times: 2
+	Query: "specificepithet:punctata genus:Dasyprocta" ; Times: 1
+	Query: "big brown bat" ; Times: 1
+	Query: "genus:Mustela frenata" ; Times: 1
+	Query: "procyon" ; Times: 3
+	Query: "brook trout" ; Times: 1
+	Query: "specificepithet:otus genus:asio" ; Times: 1
+	Query: "genus:puma" ; Times: 1
+	Query: "specificepithet:tajacu genus:Pecari" ; Times: 1
+	Query: "specificepithet:blossevillii genus:Lasiurus" ; Times: 1
+	Query: "genus:Procyon lotor" ; Times: 1
+	Query: "Erethizon dorsatum" ; Times: 1
+	Query: "genus:Sylvilagus floridanus" ; Times: 1
+	Query: "Peromyscus leucopus" ; Times: 1
+	Query: "specificepithet:lotor genus:Procyon" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon" ; Times: 1
+	Query: "genus:Sigmodon hispidus" ; Times: 1
+	Query: "specificepithet:concolor genus:Puma" ; Times: 1
+	Query: "order:CHIROPTERA country:&#34;MEXICO&#34; continent:AMERICA" ; Times: 1
+	Query: "Procyon lotor" ; Times: 2
+	Query: "genus:Vulpes stateprovince:&#34;California&#34; institutioncode:CSUC" ; Times: 1
+	Query: "genus:Dasyprocta punctata" ; Times: 2
+	Query: "genus:Puma concolor" ; Times: 2
+	Query: "Chaetodipus formosus" ; Times: 1
+	Query: "genus:Pecari tajacu" ; Times: 1
+	Query: "genus:Puma" ; Times: 1
+	Query: "Bassariscus astutus" ; Times: 2
+	Query: "Eptesicus fuscus" ; Times: 1
+	Query: "taxidea taxus" ; Times: 1
+	Query: "island specificepithet:maniculatus genus:peromyscus" ; Times: 1
+	Query: "lynx rufus" ; Times: 2
+	Query: "Lepus californicus californicus" ; Times: 1
+	Query: "penguin" ; Times: 1
+	Query: "puma concolor" ; Times: 3
+	Query: "genus:Tadarida brasiliensis" ; Times: 1
+	Query: "family:accipitridae hastissue:1" ; Times: 1
+	Query: "specificepithet:fuscus genus:Eptesicus" ; Times: 1
+	Query: "Sula nebouxii" ; Times: 1
+	Query: "genus:Canis latrans" ; Times: 1
+	Query: "Pecari tajacu" ; Times: 2
+	Query: "specificepithet:brasiliensis genus:Tadarida" ; Times: 1
+	Query: "Castor Canadensis" ; Times: 1
+	Query: "Tamias minimus" ; Times: 1
+	Query: "specificepithet:asio genus:megascops" ; Times: 1
+	Query: "Taxidea taxus" ; Times: 1
+	Query: "Lynx rufus" ; Times: 2
+	Query: "Ursus americanus americanus" ; Times: 1
+	Query: "specificepithet:leucopus genus:Peromyscus" ; Times: 1
+	Query: "specificepithet:floridanus genus:Sylvilagus" ; Times: 1
+	Query: "lepus californicus" ; Times: 1
+	Query: "procyon lotor" ; Times: 3
+	Query: "dasypus novemcinctus" ; Times: 5
+	Query: "Sigmodon hispidus" ; Times: 1
+	Query: "genus:puma haslength:1" ; Times: 2
+	Query: "Cebus apella" ; Times: 1
+	Query: "ursus americanus" ; Times: 1
+	Query: "opsanus beta" ; Times: 1
+	Query: "western spotted skunk" ; Times: 1
+	Query: "genus:Dasypus novemcinctus" ; Times: 2
+	Query: "baculum vntype:specimen genus:Peromyscus" ; Times: 1
+
+
+End of report.
