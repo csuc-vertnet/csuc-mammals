@@ -1,0 +1,115 @@
+Report for Institution Code CSUC, Resource csuc_verts
+Usage stats for December 2018, generated on 2019/01/12
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 12
+Number of records retrieved in searches: 42
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 10
+	Country: Peru ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-10 ; Times: 2
+	Date: 2018-12-24 ; Times: 2
+	Date: 2018-12-06 ; Times: 1
+	Date: 2018-12-17 ; Times: 1
+	Date: 2018-12-05 ; Times: 3
+	Date: 2018-12-04 ; Times: 2
+	Date: 2018-12-12 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "necator" ; Times: 2
+	Query: "california spotted owl" ; Times: 1
+	Query: "California spotted owl" ; Times: 1
+	Query: "pacific loon" ; Times: 1
+	Query: "genus:puma hasmass:1" ; Times: 1
+	Query: "genus:puma haslength:1" ; Times: 1
+	Query: "Syngnathus leptorhynchus" ; Times: 1
+	Query: "sorex tenellus" ; Times: 1
+	Query: "rupicola peruvianus" ; Times: 2
+	Query: "vulpes vulpes necator" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 47 (out of 809 download events in this period)
+Total number of records downloaded: 596
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 16
+	Country: India ; Times: 8
+	Country: France ; Times: 1
+	Country: United States ; Times: 20
+	Country: Germany ; Times: 1
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-08 ; Times: 1
+	Date: 2018-12-26 ; Times: 1
+	Date: 2018-12-09 ; Times: 9
+	Date: 2018-12-10 ; Times: 5
+	Date: 2018-12-20 ; Times: 4
+	Date: 2018-12-21 ; Times: 4
+	Date: 2018-12-15 ; Times: 1
+	Date: 2018-12-19 ; Times: 1
+	Date: 2018-12-18 ; Times: 3
+	Date: 2018-12-31 ; Times: 1
+	Date: 2018-12-30 ; Times: 1
+	Date: 2018-12-28 ; Times: 1
+	Date: 2018-12-07 ; Times: 1
+	Date: 2018-12-17 ; Times: 5
+	Date: 2018-12-05 ; Times: 2
+	Date: 2018-12-11 ; Times: 3
+	Date: 2018-12-03 ; Times: 2
+	Date: 2018-12-12 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "strigidae" ; Times: 1
+	Query: "Dipodomys ordii" ; Times: 2
+	Query: "Procyon lotor" ; Times: 1
+	Query: "genus:dipodomys county:&#34;san benito&#34;" ; Times: 1
+	Query: "Geococcyx californianus" ; Times: 1
+	Query: "urocyon cinereoargenteus" ; Times: 1
+	Query: "glaucidium gnoma" ; Times: 1
+	Query: "Puma concolor" ; Times: 1
+	Query: "Agapornis" ; Times: 1
+	Query: "ramphastos" ; Times: 1
+	Query: "peromyscus leucopus" ; Times: 1
+	Query: "dasyprocta punctata" ; Times: 1
+	Query: "genus:puma hasmass:1" ; Times: 1
+	Query: "athene cunicularia" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 1
+	Query: "(&#34;cactus wren&#34; OR &#34;Campylorhynchus brunneicapillus&#34;)" ; Times: 1
+	Query: "Cyprinus carpio" ; Times: 1
+	Query: "pecari tajacu" ; Times: 1
+	Query: "genus:ochotona" ; Times: 1
+	Query: "Mustela frenata" ; Times: 1
+	Query: "specificepithet:livia genus:Columba" ; Times: 1
+	Query: "puma concolor" ; Times: 2
+	Query: "specificepithet:amoena genus:Passerina month &gt;= 8 month &lt;= 9" ; Times: 1
+	Query: "Asio otus" ; Times: 1
+	Query: "Chaetodipus formosus" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "black throated sparrow" ; Times: 1
+	Query: "aegolius acadicus" ; Times: 1
+	Query: "family:trochilidae" ; Times: 1
+	Query: "procyon lotor" ; Times: 1
+	Query: "genus:puma haslength:1" ; Times: 1
+	Query: "Eptesicus fuscus" ; Times: 1
+	Query: "lynx rufus" ; Times: 1
+	Query: "lynx lynx" ; Times: 1
+	Query: "cactus wren" ; Times: 1
+	Query: "canis latrans" ; Times: 3
+	Query: "sylvilagus floridanus" ; Times: 1
+	Query: "Centrocercus urophasianus" ; Times: 1
+	Query: "sigmodon hispidus" ; Times: 1
+	Query: "Lasiurus blossevillii" ; Times: 1
+	Query: "vntype:specimen specificepithet:maritimus genus:Ursus" ; Times: 1
+	Query: "(&#34;black-throated sparrow&#34; OR &#34;Amphispiza bilineata&#34;)" ; Times: 1
+	Query: "specificepithet:sinuatus genus:Cardinalis" ; Times: 1
+
+
+End of report.
