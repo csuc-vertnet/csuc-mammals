@@ -1,0 +1,145 @@
+Report for Institution Code CSUC, Resource csuc_verts
+Usage stats for February 2019, generated on 2019/03/18
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 42
+Number of records retrieved in searches: 213
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 32
+	Country: Canada ; Times: 8
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-27 ; Times: 1
+	Date: 2019-02-13 ; Times: 13
+	Date: 2019-02-12 ; Times: 4
+	Date: 2019-02-06 ; Times: 1
+	Date: 2019-02-21 ; Times: 8
+	Date: 2019-02-04 ; Times: 2
+	Date: 2019-02-05 ; Times: 4
+	Date: 2019-02-19 ; Times: 1
+	Date: 2019-02-20 ; Times: 1
+	Date: 2019-02-08 ; Times: 5
+	Date: 2019-02-01 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Strix occidentalis ca" ; Times: 1
+	Query: "phoebe stateprovince:&#34;Nevada&#34; year &gt;= 1951 year &lt;= 1962" ; Times: 1
+	Query: "Ochotona princeps" ; Times: 13
+	Query: "Cephalopterus penduliger" ; Times: 2
+	Query: "Elanus AND leucurus OR caeruleus AND massing" ; Times: 1
+	Query: "Tamias quadrimaculatus" ; Times: 2
+	Query: "Strix occidentalis o" ; Times: 1
+	Query: "Ardea OR Casmerodius OR Egretta AND alba OR albus AND massing" ; Times: 1
+	Query: "Anas OR Mareca AND strepera AND massing" ; Times: 1
+	Query: "Junco hyemalis stateprovince:&#34;Nevada&#34; year &gt;= 1951 year &lt;= 1962" ; Times: 1
+	Query: "Aquila AND chrysaetos AND massing" ; Times: 1
+	Query: "specificepithet:americanus genus:lepus stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Puma concolor in California" ; Times: 1
+	Query: "american mink stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "specificepithet:frenata genus:Mustela institutioncode:CSUC" ; Times: 1
+	Query: "rattle snake" ; Times: 1
+	Query: "speckled dace" ; Times: 1
+	Query: "Bucephala AND islandica AND massing" ; Times: 1
+	Query: "Crax alector" ; Times: 2
+	Query: "Anas OR Mareca AND penelope AND massing" ; Times: 1
+	Query: "Bucephala islandica AND massing" ; Times: 1
+	Query: "Melanitta americana" ; Times: 1
+	Query: "flycatcher stateprovince:&#34;Nevada&#34; year &gt;= 1951 year &lt;= 1962" ; Times: 1
+	Query: "Phoebe stateprovince:&#34;Nevada&#34; year &gt;= 1951 year &lt;= 1962" ; Times: 1
+	Query: "junco stateprovince:&#34;Nevada&#34; year &gt;= 1951 year &lt;= 1962" ; Times: 1
+	Query: "saya stateprovince:&#34;Nevada&#34; year &gt;= 1951 year &lt;= 1962" ; Times: 1
+	Query: "Egretta AND thula AND massing" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 57 (out of 1227 download events in this period)
+Total number of records downloaded: 400
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 42
+	Country: United States ; Times: 14
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-24 ; Times: 1
+	Date: 2019-02-02 ; Times: 3
+	Date: 2019-02-03 ; Times: 2
+	Date: 2019-02-11 ; Times: 3
+	Date: 2019-02-25 ; Times: 1
+	Date: 2019-02-13 ; Times: 1
+	Date: 2019-02-12 ; Times: 6
+	Date: 2019-02-06 ; Times: 5
+	Date: 2019-02-07 ; Times: 1
+	Date: 2019-02-04 ; Times: 1
+	Date: 2019-02-05 ; Times: 23
+	Date: 2019-02-19 ; Times: 3
+	Date: 2019-02-18 ; Times: 1
+	Date: 2019-02-08 ; Times: 5
+	Date: 2019-02-14 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "toxostoma rufum" ; Times: 1
+	Query: "Aythya AND americana AND massing" ; Times: 1
+	Query: "&#34;Nycticorax nycticorax&#34; AND massing" ; Times: 1
+	Query: "Aythya AND collaris AND massing" ; Times: 1
+	Query: "specificepithet:aurea genus:aratinga" ; Times: 1
+	Query: "Anas OR Spatula AND cyanoptera AND massing" ; Times: 1
+	Query: "Somateria AND mollissima AND massing" ; Times: 1
+	Query: "Bucephala AND albeola AND massing" ; Times: 1
+	Query: "Aythya AND valisineria AND massing" ; Times: 1
+	Query: "Vermivora OR Leiothlypis OR Oreothlypis AND ruficapilla AND massing" ; Times: 1
+	Query: "Sylvilagus bachmani" ; Times: 1
+	Query: "tree swallow" ; Times: 1
+	Query: "Elanus AND leucurus OR caeruleus AND massing" ; Times: 1
+	Query: "Somateria AND spectabilis AND massing" ; Times: 1
+	Query: "Puma concolor" ; Times: 1
+	Query: "Bucephala AND clangula AND massing" ; Times: 1
+	Query: "Anser AND massing" ; Times: 1
+	Query: "Ardea OR Casmerodius OR Egretta AND alba OR albus AND massing" ; Times: 1
+	Query: "porcupine" ; Times: 1
+	Query: "Anser OR Chen AND caerulescens AND massing" ; Times: 1
+	Query: "Anas AND platyrhynchos AND massing" ; Times: 1
+	Query: "poeciliopsis" ; Times: 1
+	Query: "Anas OR Mareca AND strepera AND massing" ; Times: 1
+	Query: "Aythya AND affinis AND massing" ; Times: 1
+	Query: "Anas OR Mareca AND americana AND massing" ; Times: 1
+	Query: "Anas AND acuta AND massing" ; Times: 1
+	Query: "Anas AND rubripes AND massing" ; Times: 1
+	Query: "specificepithet:frenata genus:Mustela institutioncode:CSUC" ; Times: 1
+	Query: "Numenius AND phaeopus AND massing" ; Times: 1
+	Query: "Aquila AND chrysaetos AND massing" ; Times: 1
+	Query: "specificepithet:sinuatus genus:Cardinalis year &gt;= 1970 year &lt;= 2018" ; Times: 1
+	Query: "Dendroica OR Setophaga AND coronata OR auduboni AND massing" ; Times: 1
+	Query: "Buteo AND jamaicensis AND massing" ; Times: 1
+	Query: "Dasypus" ; Times: 1
+	Query: "Bucephala AND islandica AND massing" ; Times: 1
+	Query: "Heterandria" ; Times: 1
+	Query: "Anser AND albifrons AND massing" ; Times: 1
+	Query: "Urocitellus columbianus" ; Times: 1
+	Query: "genus:Thomomys county:&#34;Siskiyou&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Anas OR Spatula AND discors AND massing" ; Times: 1
+	Query: "Anas OR Spatula AND clypeata AND massing" ; Times: 1
+	Query: "Anas OR Mareca AND penelope AND massing" ; Times: 1
+	Query: "Cygnus AND columbianus AND massing" ; Times: 1
+	Query: "Dendroica OR Setophaga AND petechia OR aestiva AND massing" ; Times: 1
+	Query: "specificepithet:californicus genus:Lepus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Vermivora OR Leiothlypis OR Oreothlypis AND celata AND massing" ; Times: 1
+	Query: "Accipiter AND gentilis AND massing" ; Times: 1
+	Query: "Melanitta AND perspicillata AND massing" ; Times: 1
+	Query: "Circus AND hudsonius OR cyaneus AND massing" ; Times: 1
+	Query: "Egretta AND thula AND massing" ; Times: 1
+	Query: "Anser OR Chen AND rossii AND massing" ; Times: 1
+	Query: "Ardea AND herodias AND massing" ; Times: 1
+	Query: "rynchops niger" ; Times: 1
+	Query: "Anas AND carolinensis OR crecca AND massing" ; Times: 1
+	Query: "Branta AND canadensis OR hutchinsii AND massing" ; Times: 1
+	Query: "Oxyura AND jamaicensis AND massing" ; Times: 1
+	Query: "toxostoma redivivum" ; Times: 1
+
+
+End of report.
