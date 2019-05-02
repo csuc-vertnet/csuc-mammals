@@ -1,0 +1,134 @@
+Report for Institution Code CSUC, Resource csuc_verts
+Usage stats for April 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 26
+Number of records retrieved in searches: 117
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 20
+	Country: Belgium ; Times: 1
+	Country: Brazil ; Times: 4
+	Country: Canada ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-04 ; Times: 3
+	Date: 2019-04-19 ; Times: 1
+	Date: 2019-04-18 ; Times: 1
+	Date: 2019-04-05 ; Times: 3
+	Date: 2019-04-12 ; Times: 1
+	Date: 2019-04-11 ; Times: 1
+	Date: 2019-04-10 ; Times: 2
+	Date: 2019-04-17 ; Times: 1
+	Date: 2019-04-22 ; Times: 1
+	Date: 2019-04-30 ; Times: 2
+	Date: 2019-04-06 ; Times: 2
+	Date: 2019-04-01 ; Times: 1
+	Date: 2019-04-24 ; Times: 4
+	Date: 2019-04-25 ; Times: 1
+	Date: 2019-04-03 ; Times: 1
+	Date: 2019-04-09 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Mephitis institutioncode:CSUC" ; Times: 1
+	Query: "csuc 1661" ; Times: 2
+	Query: "mohave ground squirrel" ; Times: 1
+	Query: "locality:willow creek county:&#34;lassen&#34;" ; Times: 1
+	Query: "genus:Spilogale institutioncode:CSUC" ; Times: 1
+	Query: "specificepithet:tereticaudus genus:xerospermophilus institutioncode:CSUC" ; Times: 1
+	Query: "specificepithet:personatus genus:agapornis" ; Times: 1
+	Query: "&#34;lower klamath&#34; &#34;siskiyou&#34;" ; Times: 1
+	Query: "class:Aves catalognumber:1202 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "&#34;leslie salt&#34;" ; Times: 1
+	Query: "eremophila alpestris humboldt" ; Times: 1
+	Query: "primates costa rica" ; Times: 1
+	Query: "class:aves locality:sutter buttes" ; Times: 1
+	Query: "vulpes vulpes necator" ; Times: 1
+	Query: "family:Mephitidae collectioncode:Mammals institutioncode:CSUC" ; Times: 1
+	Query: "cyprinodon diabolis" ; Times: 1
+	Query: "long-tailed weasel" ; Times: 1
+	Query: "black-bellied whistling duck" ; Times: 1
+	Query: "Platalea ajaja" ; Times: 2
+	Query: "Elanus leucurus" ; Times: 2
+	Query: "vntype:specimen specificepithet:californianus genus:Gymnogyps" ; Times: 1
+	Query: "peromyscus peanut butter" ; Times: 1
+	Query: "puma concolor californica" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 47 (out of 1263 download events in this period)
+Total number of records downloaded: 1251
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 42
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 2
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-19 ; Times: 2
+	Date: 2019-04-18 ; Times: 9
+	Date: 2019-04-05 ; Times: 1
+	Date: 2019-04-12 ; Times: 1
+	Date: 2019-04-10 ; Times: 8
+	Date: 2019-04-17 ; Times: 5
+	Date: 2019-04-22 ; Times: 3
+	Date: 2019-04-30 ; Times: 2
+	Date: 2019-04-06 ; Times: 1
+	Date: 2019-04-02 ; Times: 12
+	Date: 2019-04-25 ; Times: 1
+	Date: 2019-04-08 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Ovis canadensis" ; Times: 1
+	Query: "Mimus polyglottos" ; Times: 1
+	Query: "Puma" ; Times: 1
+	Query: "Myotis evotis" ; Times: 1
+	Query: "specificepithet:aurea genus:aratinga" ; Times: 1
+	Query: "Northern grasshopper mouse" ; Times: 1
+	Query: "specificepithet:virginianus genus:bubo year &gt;= 2001 year &lt;= 2010" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon" ; Times: 1
+	Query: "vulpes vulpes necator" ; Times: 1
+	Query: "Myotis thysanodes" ; Times: 1
+	Query: "Didelphis virginiana year &gt;= 1970" ; Times: 1
+	Query: "specificepithet:virginianus genus:bubo year &gt;= 1980 year &lt;= 1990" ; Times: 1
+	Query: "Sciurus carolinensis" ; Times: 1
+	Query: "Phenacomys intermedius" ; Times: 1
+	Query: "ruffed grouse" ; Times: 1
+	Query: "specificepithet:concolor genus:Puma" ; Times: 1
+	Query: "Myotis californicus" ; Times: 1
+	Query: "Lasionycteris noctivagans" ; Times: 2
+	Query: "specificepithet:rufus genus:lynx" ; Times: 1
+	Query: "Ursus americanus" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 1
+	Query: "Antilocapra americana" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "specificepithet:virginianus genus:bubo year &gt;= 2011 year &lt;= 2019" ; Times: 1
+	Query: "Otospermophilus beecheyi" ; Times: 1
+	Query: "Myotis ciliolabrum" ; Times: 1
+	Query: "specificepithet:personatus genus:agapornis" ; Times: 1
+	Query: "specificepithet:canadensis genus:Ovis" ; Times: 1
+	Query: "primates costa rica" ; Times: 1
+	Query: "Myotis volans" ; Times: 1
+	Query: "specificepithet:americana genus:Antilocapra" ; Times: 1
+	Query: "Corynorhinus townsendii" ; Times: 1
+	Query: "mustela frenata" ; Times: 1
+	Query: "specificepithet:minor genus:scolopax" ; Times: 1
+	Query: "long-tailed weasel" ; Times: 1
+	Query: "specificepithet:concolor genus:puma" ; Times: 1
+	Query: "american mink" ; Times: 1
+	Query: "california ground squirrel" ; Times: 1
+	Query: "snowshoe hare" ; Times: 1
+	Query: "Archoplites interruptus" ; Times: 1
+	Query: "Myotis yumanensis" ; Times: 1
+	Query: "Urocyon cinereoargenteus" ; Times: 1
+	Query: "EUMOPS PEROTIS" ; Times: 1
+	Query: "Lasiurus blossevillii" ; Times: 1
+	Query: "red wolf" ; Times: 1
+	Query: "Lasiurus cinereus" ; Times: 1
+
+
+End of report.
