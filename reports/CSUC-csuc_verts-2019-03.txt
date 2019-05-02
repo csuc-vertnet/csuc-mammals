@@ -1,0 +1,98 @@
+Report for Institution Code CSUC, Resource csuc_verts
+Usage stats for March 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 28
+Number of records retrieved in searches: 96
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 26
+	Country: Denmark ; Times: 1
+	Country: Costa Rica ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-05 ; Times: 1
+	Date: 2019-03-01 ; Times: 2
+	Date: 2019-03-26 ; Times: 1
+	Date: 2019-03-23 ; Times: 2
+	Date: 2019-03-08 ; Times: 6
+	Date: 2019-03-16 ; Times: 1
+	Date: 2019-03-04 ; Times: 1
+	Date: 2019-03-14 ; Times: 3
+	Date: 2019-03-11 ; Times: 1
+	Date: 2019-03-12 ; Times: 2
+	Date: 2019-03-13 ; Times: 2
+	Date: 2019-03-03 ; Times: 1
+	Date: 2019-03-28 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Puma concolor hasmass:1" ; Times: 1
+	Query: "cyprinodon diabolis" ; Times: 2
+	Query: "specificepithet:lateralis county:&#34;trinity&#34;" ; Times: 1
+	Query: "neovison vison" ; Times: 4
+	Query: "catalognumber:4957" ; Times: 1
+	Query: "specificepithet:merriami genus:tamias institutioncode:CSUC" ; Times: 3
+	Query: "mohave ground squirrel" ; Times: 1
+	Query: "Haliaeetus leucocephalus year &gt; 1990 NOT clo" ; Times: 1
+	Query: "Lontra canadensis hasmass:1" ; Times: 1
+	Query: "Mimus polyglottos hasmass:1" ; Times: 4
+	Query: "stateprovince:&#34;AK&#34;" ; Times: 1
+	Query: "class:Aves catalognumber:1266" ; Times: 1
+	Query: "hamster" ; Times: 2
+	Query: "Sorex tenellus" ; Times: 1
+	Query: "class:Aves catalognumber:1281" ; Times: 1
+	Query: "class:Aves catalognumber:1396" ; Times: 1
+	Query: "dipodomys ingens" ; Times: 1
+	Query: "squirrel monkey costa rica" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 23 (out of 1281 download events in this period)
+Total number of records downloaded: 104
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 18
+	Country: Brazil ; Times: 2
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-11 ; Times: 2
+	Date: 2019-03-03 ; Times: 1
+	Date: 2019-03-27 ; Times: 1
+	Date: 2019-03-31 ; Times: 1
+	Date: 2019-03-25 ; Times: 1
+	Date: 2019-03-23 ; Times: 1
+	Date: 2019-03-22 ; Times: 1
+	Date: 2019-03-21 ; Times: 1
+	Date: 2019-03-20 ; Times: 1
+	Date: 2019-03-04 ; Times: 2
+	Date: 2019-03-07 ; Times: 1
+	Date: 2019-03-28 ; Times: 1
+	Date: 2019-03-01 ; Times: 1
+	Date: 2019-03-29 ; Times: 3
+	Date: 2019-03-08 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "order:Primates haslength:1" ; Times: 1
+	Query: "specificepithet:americana sierrae genus:martes" ; Times: 1
+	Query: "american coot" ; Times: 1
+	Query: "Tachycineta bicolor" ; Times: 1
+	Query: "specificepithet:canadensis genus:lontra" ; Times: 3
+	Query: "specificepithet:taxus genus:taxidea" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "(charadricola OR robertsorum OR thorectes OR hazelae OR sabrina)" ; Times: 1
+	Query: "nutria" ; Times: 2
+	Query: "genus:neovison" ; Times: 1
+	Query: "*Urocitellus columbianus" ; Times: 2
+	Query: "Sorex tenellus" ; Times: 1
+	Query: "Phainopepla" ; Times: 1
+	Query: "genus:microtus county:&#34;humboldt&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "specificepithet:novemcinctus genus:Dasypus" ; Times: 1
+	Query: "specificepithet:gulo" ; Times: 3
+	Query: "vntype:specimen genus:porphyrio" ; Times: 1
+
+
+End of report.
