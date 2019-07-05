@@ -1,0 +1,211 @@
+Report for Institution Code CSUC, Resource csuc_verts
+Usage stats for June 2019, generated on 2019/07/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 95
+Number of records retrieved in searches: 221
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 83
+	Country: New Zealand ; Times: 10
+	Country: Peru ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-06-23 ; Times: 2
+	Date: 2019-06-18 ; Times: 1
+	Date: 2019-06-08 ; Times: 3
+	Date: 2019-06-27 ; Times: 7
+	Date: 2019-06-28 ; Times: 1
+	Date: 2019-06-07 ; Times: 4
+	Date: 2019-06-04 ; Times: 1
+	Date: 2019-06-05 ; Times: 2
+	Date: 2019-06-11 ; Times: 38
+	Date: 2019-06-10 ; Times: 27
+	Date: 2019-06-02 ; Times: 1
+	Date: 2019-06-30 ; Times: 5
+	Date: 2019-06-13 ; Times: 1
+	Date: 2019-06-17 ; Times: 1
+	Date: 2019-06-25 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Cottus specificepithet:aleuticus" ; Times: 2
+	Query: "genus:Pogonichthys specificepithet:macrolepidotus" ; Times: 1
+	Query: "genus:Hypsurus specificepithet:caryi" ; Times: 1
+	Query: "genus:Opsanus specificepithet:beta" ; Times: 1
+	Query: "genus:Myocastor specificepithet:coypus" ; Times: 1
+	Query: "Platyrhinoidis triseriata" ; Times: 2
+	Query: "genus:Lepisosteus specificepithet:platyrhincus" ; Times: 1
+	Query: "genus:Lavinia specificepithet:exilicauda" ; Times: 1
+	Query: "Myliobatis californica" ; Times: 2
+	Query: "yellow bellied marmot" ; Times: 2
+	Query: "genus:Myotis specificepithet:vivesi" ; Times: 1
+	Query: "genus:Leuresthes specificepithet:tenuis" ; Times: 1
+	Query: "genus:Rhacochilus specificepithet:vacca" ; Times: 1
+	Query: "genus:Richardsonius specificepithet:egregius" ; Times: 1
+	Query: "genus:Enophrys specificepithet:bison" ; Times: 1
+	Query: "genus:Hysterocarpus specificepithet:traskii" ; Times: 1
+	Query: "genus:Apodichthys specificepithet:flavidus" ; Times: 1
+	Query: "genus:Neophema specificepithet:splendida" ; Times: 1
+	Query: "chinook salmon" ; Times: 3
+	Query: "genus:Fregata specificepithet:magnificens" ; Times: 1
+	Query: "genus:Hesperoleucus specificepithet:symmetricus" ; Times: 1
+	Query: "genus:Clupea specificepithet:pallasii" ; Times: 1
+	Query: "Pangolin" ; Times: 1
+	Query: "genus:Phoebastria specificepithet:nigripes " ; Times: 2
+	Query: "genus:Gobiesox specificepithet:maeandricus" ; Times: 1
+	Query: "genus:Falcipennis specificepithet:canadensis" ; Times: 1
+	Query: "genus:Acanthogobius specificepithet:flavimanus" ; Times: 1
+	Query: "gunnel" ; Times: 1
+	Query: "genus:Micrometrus specificepithet:aurora" ; Times: 1
+	Query: "genus:Cymatogaster specificepithet:aggregata" ; Times: 1
+	Query: "Cyprinodon salinus" ; Times: 1
+	Query: "genus:Cottus specificepithet:pitensis" ; Times: 2
+	Query: "Triakis semifasciata" ; Times: 2
+	Query: "genus:Oligocottus specificepithet:maculosus" ; Times: 2
+	Query: "genus:xerospermophilus class:mammalia institutioncode:CSUC" ; Times: 1
+	Query: "genus:Pecari stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "genus:Artedius specificepithet:lateralis" ; Times: 2
+	Query: "pangolin" ; Times: 1
+	Query: "genus:Cottus specificepithet:gulosus" ; Times: 2
+	Query: "genus:Clinocottus specificepithet:embryum" ; Times: 1
+	Query: "genus:Oligocottus specificepithet:snyderi" ; Times: 1
+	Query: "genus:Eumops specificepithet:perotis" ; Times: 1
+	Query: "genus:Hydrolagus specificepithet:colliei" ; Times: 1
+	Query: "genus:Clinocottus specificepithet:globiceps" ; Times: 1
+	Query: "genus:Blepsias specificepithet:cirrhosus" ; Times: 2
+	Query: "Chinook Salmon" ; Times: 3
+	Query: "Lepus americanus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Amphistichus specificepithet:argenteus" ; Times: 1
+	Query: "genus:Mesocricetus specificepithet:auratus" ; Times: 1
+	Query: "Mustelus henlei" ; Times: 2
+	Query: "genus:Cavia specificepithet:porcellus" ; Times: 1
+	Query: "genus:Dasyprocta specificepithet:punctata" ; Times: 1
+	Query: "spotted towhee hasmass:1" ; Times: 1
+	Query: "genus:Orthodon specificepithet:microlepidotus" ; Times: 1
+	Query: "Sphyrna zygaena" ; Times: 2
+	Query: "Strix occidentalis" ; Times: 1
+	Query: "Mesocricetus auratus" ; Times: 1
+	Query: "genus:Dendrocygna specificepithet:autumnalis" ; Times: 1
+	Query: "genus:Remora specificepithet:remora" ; Times: 1
+	Query: "genus:Cottus specificepithet:asperrimus" ; Times: 2
+	Query: "genus:Cricetus specificepithet:cricetus" ; Times: 1
+	Query: "genus:Cygnus specificepithet:columbianus" ; Times: 1
+	Query: "genus:Hyperprosopon specificepithet:argenteum" ; Times: 1
+	Query: "genus:Spilogale specificepithet:gracilis" ; Times: 1
+	Query: "genus:Liparis specificepithet:florae" ; Times: 2
+	Query: "genus:Embiotoca specificepithet:lateralis" ; Times: 1
+	Query: "genus:Lepidogobius specificepithet:lepidus" ; Times: 1
+	Query: "genus:Saimiri specificepithet:oerstedii" ; Times: 3
+	Query: "specificepithet:merriami genus:tamias class:mammalia institutioncode:CSUC" ; Times: 1
+	Query: "genus:Bassariscus specificepithet:astutus" ; Times: 1
+	Query: "genus:Cottus specificepithet:beldingii" ; Times: 2
+	Query: "genus:Mylopharodon specificepithet:conocephalus" ; Times: 1
+	Query: "specificepithet:occidentalis genus:Strix" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 119 (out of 1182 download events in this period)
+Total number of records downloaded: 1409
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 113
+	Country: Denmark ; Times: 1
+	Country: Peru ; Times: 1
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-06-19 ; Times: 1
+	Date: 2019-06-26 ; Times: 3
+	Date: 2019-06-08 ; Times: 4
+	Date: 2019-06-30 ; Times: 1
+	Date: 2019-06-06 ; Times: 18
+	Date: 2019-06-07 ; Times: 29
+	Date: 2019-06-04 ; Times: 33
+	Date: 2019-06-05 ; Times: 15
+	Date: 2019-06-11 ; Times: 2
+	Date: 2019-06-03 ; Times: 9
+	Date: 2019-06-13 ; Times: 1
+	Date: 2019-06-12 ; Times: 2
+	Date: 2019-06-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "bison" ; Times: 1
+	Query: "sea otter" ; Times: 2
+	Query: "black bear" ; Times: 2
+	Query: "western screech owl" ; Times: 1
+	Query: "snowy owl" ; Times: 1
+	Query: "marmot" ; Times: 2
+	Query: "spotted towhee hasmass:1" ; Times: 1
+	Query: "gray wolf" ; Times: 1
+	Query: "Barn Owl" ; Times: 1
+	Query: "yellow bellied marmot" ; Times: 2
+	Query: "Cougar" ; Times: 1
+	Query: "california condor" ; Times: 1
+	Query: "specificepithet:gapperi genus:Myodes" ; Times: 1
+	Query: "bobcat" ; Times: 3
+	Query: "pronghorn" ; Times: 1
+	Query: "river otter" ; Times: 1
+	Query: "castor canadensis" ; Times: 1
+	Query: "Puma concolor" ; Times: 3
+	Query: "coho" ; Times: 1
+	Query: "sage grouse" ; Times: 1
+	Query: "Bald Eagle" ; Times: 1
+	Query: "cathartes aura" ; Times: 2
+	Query: "chinook salmon" ; Times: 2
+	Query: "Aplodontia rufa" ; Times: 1
+	Query: "Castor canadensis canadensis" ; Times: 1
+	Query: "coho salmon" ; Times: 4
+	Query: "red fox" ; Times: 1
+	Query: "Ovibos moschatus" ; Times: 1
+	Query: "cougar" ; Times: 5
+	Query: "Urocitellus columbianus" ; Times: 1
+	Query: "ursus maritimus" ; Times: 1
+	Query: "Mustela frenata" ; Times: 1
+	Query: "Ursus americanus" ; Times: 2
+	Query: "specificepithet:princeps genus:Ochotona year &gt;= 1956 year &lt;= 1975" ; Times: 1
+	Query: "continent:North America (wolf canis lupus)" ; Times: 1
+	Query: "golden eagle" ; Times: 1
+	Query: "Cedar Waxwing" ; Times: 1
+	Query: "moose" ; Times: 1
+	Query: "Pika" ; Times: 4
+	Query: "ovis canadensis" ; Times: 1
+	Query: "Passerina cyanea" ; Times: 1
+	Query: "american bison" ; Times: 1
+	Query: "Bassariscus astutus" ; Times: 2
+	Query: "blue jay" ; Times: 1
+	Query: "White crowned Sparrow" ; Times: 1
+	Query: "spotted owl" ; Times: 1
+	Query: "armadillo" ; Times: 1
+	Query: "flying squirrel" ; Times: 3
+	Query: "Alces alces" ; Times: 1
+	Query: "mustela frenata" ; Times: 1
+	Query: "ursus americanus" ; Times: 2
+	Query: "kangaroo rat" ; Times: 1
+	Query: "Myocastor coypus" ; Times: 1
+	Query: "bald eagle north america" ; Times: 1
+	Query: "bald eagle" ; Times: 7
+	Query: "enhydra lutris nereis" ; Times: 1
+	Query: "vntype:specimen specificepithet:cunicularia genus:Athene" ; Times: 1
+	Query: "pika" ; Times: 13
+	Query: "Oncorhynchus kisutch" ; Times: 1
+	Query: "Chinook Salmon" ; Times: 1
+	Query: "Gymnogyps californianus" ; Times: 1
+	Query: "selasphorus rufus" ; Times: 1
+	Query: "veery" ; Times: 1
+	Query: "barn owl" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "brook trout" ; Times: 2
+	Query: "Yellow bellied sapsucker" ; Times: 1
+	Query: "corynorhinus townsendii" ; Times: 1
+	Query: "Chaetodipus penicillatus" ; Times: 1
+	Query: "vntype:specimen specificepithet:amoena genus:Passerina" ; Times: 1
+	Query: "north american marten" ; Times: 1
+	Query: "Castor canadensis" ; Times: 3
+	Query: "rainbow trout" ; Times: 1
+
+
+End of report.
