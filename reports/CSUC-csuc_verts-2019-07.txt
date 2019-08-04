@@ -1,0 +1,141 @@
+Report for Institution Code CSUC, Resource csuc_verts
+Usage stats for July 2019, generated on 2019/08/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 72
+Number of records retrieved in searches: 271
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 68
+	Country: Nepal ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-09 ; Times: 2
+	Date: 2019-07-08 ; Times: 15
+	Date: 2019-07-21 ; Times: 2
+	Date: 2019-07-11 ; Times: 2
+	Date: 2019-07-22 ; Times: 6
+	Date: 2019-07-12 ; Times: 21
+	Date: 2019-07-13 ; Times: 2
+	Date: 2019-07-03 ; Times: 1
+	Date: 2019-07-28 ; Times: 2
+	Date: 2019-07-16 ; Times: 6
+	Date: 2019-07-07 ; Times: 1
+	Date: 2019-07-06 ; Times: 1
+	Date: 2019-07-30 ; Times: 1
+	Date: 2019-07-14 ; Times: 1
+	Date: 2019-07-23 ; Times: 2
+	Date: 2019-07-15 ; Times: 6
+	Date: 2019-07-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:dorsatum genus:erethizon stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "genus:Porphyrio specificepithet:martinica" ; Times: 1
+	Query: "class:mammalia county:&#34;riverside&#34; stateprovince:&#34;california&#34; institutioncode:CSUC" ; Times: 2
+	Query: "genus:tamias class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:CSUC" ; Times: 1
+	Query: "genus:Cottus specificepithet:aleuticus" ; Times: 1
+	Query: "genus:sciurus class:mammalia county:&#34;riverside&#34; stateprovince:&#34;california&#34; institutioncode:CSUC" ; Times: 1
+	Query: "genus:Spirinchus specificepithet:thaleichthys" ; Times: 1
+	Query: "genus:otospermophilus class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:CSUC" ; Times: 1
+	Query: "genus:neotoma class:mammalia county:&#34;riverside&#34; stateprovince:&#34;california&#34; institutioncode:CSUC" ; Times: 1
+	Query: "genus:Cottus specificepithet:beldingii" ; Times: 1
+	Query: "class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:CSUC" ; Times: 2
+	Query: "Passerina amoena sex:male month &gt;= 7 month &lt;= 9 hassex:1 hasmass:1" ; Times: 1
+	Query: "class:mammalia county:&#34;ventura&#34; stateprovince:&#34;california&#34; institutioncode:CSUC" ; Times: 2
+	Query: "specificepithet:canadensis genus:lontra stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Cottus specificepithet:pitensis" ; Times: 1
+	Query: "class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:CSUC" ; Times: 2
+	Query: "class:mammalia county:&#34;imperial&#34; stateprovince:&#34;california&#34; institutioncode:CSUC" ; Times: 1
+	Query: "genus:dipodomys class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:CSUC" ; Times: 1
+	Query: "genus:Cottus specificepithet:gulosus" ; Times: 1
+	Query: "genus:microtus class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:CSUC" ; Times: 1
+	Query: "genus:Cottus specificepithet:asperrimus" ; Times: 1
+	Query: "genus:pluvialis class:aves stateprovince:&#34;alaska&#34; month &gt;= 9 month &lt;= 9" ; Times: 1
+	Query: "specificepithet:pennanti genus:Martes stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Tamias specificepithet:cinereicollis" ; Times: 1
+	Query: "genus:otospermophilus class:mammalia county:&#34;riverside&#34; stateprovince:&#34;california&#34; institutioncode:CSUC" ; Times: 1
+	Query: "nutria" ; Times: 1
+	Query: "Strix occidentalis" ; Times: 1
+	Query: "Centrocercus urophasianus" ; Times: 33
+	Query: "genus:sciurus class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:CSUC" ; Times: 1
+	Query: "genus:chaetodipus class:mammalia county:&#34;riverside&#34; stateprovince:&#34;california&#34; institutioncode:CSUC" ; Times: 1
+	Query: "genus:Saimiri specificepithet:oerstedii" ; Times: 1
+	Query: "genus:peromyscus class:mammalia county:&#34;riverside&#34; stateprovince:&#34;california&#34; institutioncode:CSUC" ; Times: 1
+	Query: "genus:Pecari stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Haliaeetus leucocephalus" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 44 (out of 985 download events in this period)
+Total number of records downloaded: 587
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 36
+	Country: Unknown ; Times: 1
+	Country: India ; Times: 1
+	Country: Peru ; Times: 3
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-09 ; Times: 4
+	Date: 2019-07-08 ; Times: 4
+	Date: 2019-07-18 ; Times: 2
+	Date: 2019-07-02 ; Times: 2
+	Date: 2019-07-25 ; Times: 1
+	Date: 2019-07-01 ; Times: 1
+	Date: 2019-07-05 ; Times: 2
+	Date: 2019-07-10 ; Times: 1
+	Date: 2019-07-11 ; Times: 2
+	Date: 2019-07-30 ; Times: 1
+	Date: 2019-07-04 ; Times: 1
+	Date: 2019-07-15 ; Times: 1
+	Date: 2019-07-12 ; Times: 1
+	Date: 2019-07-17 ; Times: 1
+	Date: 2019-07-23 ; Times: 17
+	Date: 2019-07-31 ; Times: 2
+	Date: 2019-07-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "order:Rodentia stateprovince:&#34;Nevada&#34; year &gt;= 2000 year &lt;= 2018" ; Times: 1
+	Query: "specificepithet:dorsatum genus:erethizon stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "specificepithet:gracilis genus:spilogale stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:vagrans genus:sorex stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Rattus norvegicus" ; Times: 3
+	Query: "specificepithet:canadensis genus:lontra stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "sciurus carolinensis" ; Times: 1
+	Query: "specificepithet:rufus genus:Lynx stateprovince:&#34;California&#34;" ; Times: 3
+	Query: "specificepithet:mephitis genus:mephitis stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "family:icteridae haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:canadensis genus:Branta basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Porzana carolina" ; Times: 1
+	Query: "specificepithet:americana genus:Martes stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:taxus genus:taxidea stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "athene cunicularia" ; Times: 1
+	Query: "Branta canadensis" ; Times: 1
+	Query: "vntype:specimen specificepithet:striatus genus:Accipiter year &gt;= 1970" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:lotor genus:procyon stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:rufus genus:lynx stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Bassariscus" ; Times: 1
+	Query: "Ursus americanus" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:urocyon stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:concolor genus:puma stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "porzana carolina" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;New Mexico&#34; year &gt;= 1931 year &lt;= 1940" ; Times: 1
+	Query: "Branta hutchinsii" ; Times: 1
+	Query: "specificepithet:pennanti genus:Martes stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:latrans genus:canis stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "dasypus novemcinctus" ; Times: 1
+	Query: "Chen canagica" ; Times: 1
+	Query: "Branta bernicla" ; Times: 1
+	Query: "specificepithet:frenata genus:mustela stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Macrhybopsis" ; Times: 2
+	Query: "Cavia porcellus" ; Times: 1
+
+
+End of report.
