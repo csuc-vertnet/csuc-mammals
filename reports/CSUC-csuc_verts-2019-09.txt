@@ -1,0 +1,120 @@
+Report for Institution Code CSUC, Resource csuc_verts
+Usage stats for September 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 92
+Number of records retrieved in searches: 287
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 74
+	Country: Japan ; Times: 1
+	Country: Netherlands ; Times: 1
+	Country: Thailand ; Times: 16
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-23 ; Times: 2
+	Date: 2019-09-25 ; Times: 1
+	Date: 2019-09-11 ; Times: 2
+	Date: 2019-09-12 ; Times: 4
+	Date: 2019-09-19 ; Times: 1
+	Date: 2019-09-03 ; Times: 5
+	Date: 2019-09-02 ; Times: 1
+	Date: 2019-09-06 ; Times: 36
+	Date: 2019-09-05 ; Times: 16
+	Date: 2019-09-24 ; Times: 24
+
+List of queries that retrieved data from the resource: 
+	Query: "Lasionycteris noctivagans haslength:1" ; Times: 1
+	Query: "Eumops perotis haslength:1" ; Times: 1
+	Query: "Myotis volans haslength:1" ; Times: 1
+	Query: "specificepithet:pennanti genus:martes stateprovince:&#34;california&#34;" ; Times: 2
+	Query: "Neotoma cinerea" ; Times: 4
+	Query: "Myotis vivesi haslength:1" ; Times: 1
+	Query: "Lasiurus cinereus haslength:1" ; Times: 1
+	Query: "Peromyscus maniculatus 2011" ; Times: 1
+	Query: "Myotis melanorhinus haslength:1" ; Times: 1
+	Query: "gray fox" ; Times: 1
+	Query: "Balantiopteryx plicata haslength:1" ; Times: 1
+	Query: "specificepithet:taxus genus:Taxidea hasmass:1 haslength:1" ; Times: 1
+	Query: "Peromyscus maniculatus 1972" ; Times: 12
+	Query: "Peromyscus maniculatus 1973" ; Times: 2
+	Query: "Peromyscus maniculatus 1974" ; Times: 2
+	Query: "specificepithet:spinatus genus:Chaetodipus county:&#34;San Bernardino&#34;" ; Times: 1
+	Query: "Peromyscus maniculatus 1996" ; Times: 2
+	Query: "Peromyscus maniculatus 1979" ; Times: 2
+	Query: "Myotis thysanodes haslength:1" ; Times: 1
+	Query: "Antrozous pallidus haslength:1" ; Times: 1
+	Query: "Myotis evotis haslength:1" ; Times: 1
+	Query: "specificepithet:dorsatum genus:Erethizon hasmass:1 haslength:1" ; Times: 1
+	Query: "Myotis californicus haslength:1" ; Times: 1
+	Query: "Coccyzus americanus" ; Times: 5
+	Query: "Lasiurus blossevillii haslength:1" ; Times: 1
+	Query: "Leptonycteris yerbabuenae haslength:1" ; Times: 1
+	Query: "Myotis ciliolabrum haslength:1" ; Times: 1
+	Query: "tyrannus 2203" ; Times: 1
+	Query: "specificepithet:astutus genus:Bassariscus hasmass:1 haslength:1" ; Times: 1
+	Query: "Chinook salmon" ; Times: 1
+	Query: "specificepithet:beecheyi genus:Otospermophilus county:&#34;San Bernardino&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Myotis yumanensis haslength:1" ; Times: 1
+	Query: "Corynorhinus townsendii haslength:1" ; Times: 1
+	Query: "Centrocercus urophasianus" ; Times: 10
+	Query: "Peromyscus maniculatus 1989" ; Times: 2
+	Query: "Empidonax traillii" ; Times: 12
+	Query: "genus: Bassariscus hasmass:1 haslength:1" ; Times: 1
+	Query: "Peromyscus maniculatus 1991" ; Times: 2
+	Query: "Coccyzus americanus americanus" ; Times: 9
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 21 (out of 1073 download events in this period)
+Total number of records downloaded: 197
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 17
+	Country: Switzerland ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-20 ; Times: 1
+	Date: 2019-09-23 ; Times: 2
+	Date: 2019-09-17 ; Times: 1
+	Date: 2019-09-25 ; Times: 1
+	Date: 2019-09-11 ; Times: 1
+	Date: 2019-09-13 ; Times: 1
+	Date: 2019-09-29 ; Times: 1
+	Date: 2019-09-26 ; Times: 1
+	Date: 2019-09-30 ; Times: 2
+	Date: 2019-09-09 ; Times: 1
+	Date: 2019-09-03 ; Times: 2
+	Date: 2019-09-02 ; Times: 1
+	Date: 2019-09-06 ; Times: 3
+	Date: 2019-09-04 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Streptopelia decaocto" ; Times: 1
+	Query: "nucifraga columbiana" ; Times: 2
+	Query: "specificepithet:ornatus genus:sorex stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "black-throated blue warbler" ; Times: 1
+	Query: "specificepithet:torridus genus:Onychomys stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "specificepithet:trinotatus genus:zapus stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "specificepithet:latimanus genus:scapanus stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "specificepithet:tereticaudus genus:xerospermophilus stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "specificepithet:personatus collectioncode:Birds" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "specificepithet:dorsatum genus:Erethizon" ; Times: 1
+	Query: "specificepithet:pennanti genus:martes stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "*Urocitellus columbianus" ; Times: 1
+	Query: "eumops perotis" ; Times: 1
+	Query: "antrozous pallidus" ; Times: 1
+	Query: "urocitellus columbianus" ; Times: 1
+	Query: "strix occidentalis" ; Times: 1
+	Query: "order:psittaciformes haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Sciurus" ; Times: 1
+
+
+End of report.
