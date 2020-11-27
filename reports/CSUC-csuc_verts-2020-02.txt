@@ -1,0 +1,124 @@
+Report for Institution Code CSUC, Resource csuc_verts
+Usage stats for February 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 33
+Number of records retrieved in searches: 81
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 33
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-03 ; Times: 1
+	Date: 2020-02-13 ; Times: 1
+	Date: 2020-02-24 ; Times: 1
+	Date: 2020-02-25 ; Times: 2
+	Date: 2020-02-26 ; Times: 4
+	Date: 2020-02-12 ; Times: 2
+	Date: 2020-02-14 ; Times: 1
+	Date: 2020-02-17 ; Times: 1
+	Date: 2020-02-23 ; Times: 1
+	Date: 2020-02-28 ; Times: 2
+	Date: 2020-02-29 ; Times: 1
+	Date: 2020-02-21 ; Times: 16
+
+List of queries that retrieved data from the resource: 
+	Query: "Common poorwill Tehama county" ; Times: 1
+	Query: "vntype:specimen specificepithet:domesticus genus:passer year &gt;= 1900 year &lt;= 1950 institutioncode:CSUC" ; Times: 1
+	Query: "vntype:specimen specificepithet:domesticus genus:passer institutioncode:CSUC" ; Times: 1
+	Query: "vntype:specimen specificepithet:Domesticus genus:Passer year &gt;= 1951 year &lt;= 2020 institutioncode:CSUC" ; Times: 1
+	Query: "pangolin" ; Times: 1
+	Query: "class:mammalia catalognumber:1392" ; Times: 2
+	Query: "specificepithet:blossevillii genus:Lasiurus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Anas diazi" ; Times: 18
+	Query: "Neotoma cinerea" ; Times: 2
+	Query: "Greater Sage Grouse" ; Times: 1
+	Query: "genus:Lemmiscus county:&#34;Lassen&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "basisofrecord:PreservedSpecimen Greater Sage Grouse" ; Times: 1
+	Query: "specificepithet:audubonii genus:Sylvilagus stateprovince:&#34;California&#34; institutioncode:CSUC" ; Times: 1
+	Query: "Chinook salmon" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 41 (out of 1023 download events in this period)
+Total number of records downloaded: 908
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: Egypt ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 32
+	Country: Argentina ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-04 ; Times: 2
+	Date: 2020-02-05 ; Times: 1
+	Date: 2020-02-02 ; Times: 1
+	Date: 2020-02-03 ; Times: 1
+	Date: 2020-02-26 ; Times: 1
+	Date: 2020-02-27 ; Times: 3
+	Date: 2020-02-20 ; Times: 1
+	Date: 2020-02-07 ; Times: 2
+	Date: 2020-02-22 ; Times: 1
+	Date: 2020-02-23 ; Times: 1
+	Date: 2020-02-08 ; Times: 3
+	Date: 2020-02-09 ; Times: 2
+	Date: 2020-02-28 ; Times: 3
+	Date: 2020-02-11 ; Times: 2
+	Date: 2020-02-10 ; Times: 4
+	Date: 2020-02-13 ; Times: 3
+	Date: 2020-02-12 ; Times: 1
+	Date: 2020-02-15 ; Times: 1
+	Date: 2020-02-14 ; Times: 2
+	Date: 2020-02-17 ; Times: 1
+	Date: 2020-02-19 ; Times: 1
+	Date: 2020-02-18 ; Times: 2
+	Date: 2020-02-06 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "pullatus specificepithet:pennsylvanicus genus:microtus" ; Times: 1
+	Query: "specificepithet:heermanni genus:dipodomys stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "genus:Thomomys stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "class:Mammalia county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:cavia" ; Times: 1
+	Query: "specificepithet:californicus genus:dipodomys stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "zapus princeps" ; Times: 1
+	Query: "&#34;Lasiurus cinereus&#34; continent:North America hasmass:1 haslength:1" ; Times: 1
+	Query: "vntype:specimen order:Primates" ; Times: 1
+	Query: "genus:dasyprocta" ; Times: 1
+	Query: "Enhydra lutris" ; Times: 1
+	Query: "specificepithet:urophasianus genus:Centrocercus class:Aves basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "specificepithet:varia genus:strix" ; Times: 1
+	Query: "athene cunicularia" ; Times: 1
+	Query: "genus:Tamiasciurus" ; Times: 1
+	Query: "genus:ochotona" ; Times: 1
+	Query: "vntype:specimen genus:Myotis continent:North America hasmass:1" ; Times: 1
+	Query: "specificepithet:amoenus genus:Tamias country:&#34;Canada&#34;" ; Times: 1
+	Query: "order:passeriformes hasmass:1" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 2
+	Query: "sciurus niger" ; Times: 1
+	Query: "Grus canadensis" ; Times: 1
+	Query: "Tyto alba" ; Times: 1
+	Query: "&#34;Lasionycteris noctivagans&#34; continent:North America hasmass:1 haslength:1" ; Times: 1
+	Query: "order:rodentia hassex:1 hasmass:1" ; Times: 1
+	Query: "Myotis melanorhinus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Urocitellus columbianus" ; Times: 1
+	Query: "class:Aves county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Manis pentadactyla" ; Times: 1
+	Query: "bushtit" ; Times: 1
+	Query: "Gambusia affinis" ; Times: 1
+	Query: "order:Chiroptera hassex:1 hasmass:1" ; Times: 1
+	Query: "setophaga coronata coronata" ; Times: 1
+	Query: "didelphis virginiana" ; Times: 1
+	Query: "canis latrans" ; Times: 1
+	Query: "genus:Manis" ; Times: 1
+	Query: "Peromyscus leucopus" ; Times: 1
+	Query: "&#34;Eptesicus fuscus&#34; continent:North America hasmass:1 haslength:1" ; Times: 1
+	Query: "Myotis ciliolabrum basisofrecord:PreservedSpecimen" ; Times: 1
+
+
+End of report.
