@@ -1,0 +1,103 @@
+Report for Institution Code CSUC, Resource csuc_verts
+Usage stats for November 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 46
+Number of records retrieved in searches: 121
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 25
+	Country: Denmark ; Times: 12
+	Country: Germany ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Thailand ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-08 ; Times: 5
+	Date: 2019-11-09 ; Times: 4
+	Date: 2019-11-06 ; Times: 2
+	Date: 2019-11-07 ; Times: 9
+	Date: 2019-11-16 ; Times: 4
+	Date: 2019-11-02 ; Times: 1
+	Date: 2019-11-03 ; Times: 5
+	Date: 2019-11-13 ; Times: 1
+	Date: 2019-11-01 ; Times: 1
+	Date: 2019-11-15 ; Times: 12
+	Date: 2019-11-11 ; Times: 1
+	Date: 2019-11-12 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Poeciliopsis gracilis" ; Times: 1
+	Query: "Ovis aries" ; Times: 1
+	Query: "Sharp-tailed grouse" ; Times: 1
+	Query: "Coccyzus americanus 1977" ; Times: 4
+	Query: "bat ray" ; Times: 2
+	Query: "Myocastor coypus" ; Times: 1
+	Query: "specificepithet:minimus genus:Tamias stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Urocitellus columbianus" ; Times: 1
+	Query: "Gallinago gallinago gallinago hasmass:1" ; Times: 1
+	Query: "prickly sculpin" ; Times: 1
+	Query: "Nycticorax nycticorax nycticorax hasmass:1" ; Times: 1
+	Query: "Mycteria americana 2016" ; Times: 4
+	Query: "Mycteria americana 2015" ; Times: 4
+	Query: "locality:delevan" ; Times: 1
+	Query: "Ardea alba hasmass:1" ; Times: 1
+	Query: "Anas crecca crecca hasmass:1" ; Times: 1
+	Query: "Dasyprocta punctata" ; Times: 6
+	Query: "Urocitellus beldingi" ; Times: 1
+	Query: "Asio otus otus hasmass:1" ; Times: 1
+	Query: "specificepithet:gracilis genus:Poeciliopsis" ; Times: 1
+	Query: "Mycteria americana 1973" ; Times: 4
+	Query: "Gallinula galeata hasmass:1" ; Times: 1
+	Query: "Anas platyrhynchos platyrhynchos hasmass:1" ; Times: 1
+	Query: "Callorhinus ursinus" ; Times: 2
+	Query: "Anas diazi" ; Times: 1
+	Query: "Coccyzus americanus 2015" ; Times: 1
+	Query: "Siphateles bicolor" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 22 (out of 1367 download events in this period)
+Total number of records downloaded: 215
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 20
+	Country: Brazil ; Times: 1
+	Country: Netherlands ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-20 ; Times: 1
+	Date: 2019-11-21 ; Times: 1
+	Date: 2019-11-22 ; Times: 5
+	Date: 2019-11-15 ; Times: 4
+	Date: 2019-11-07 ; Times: 4
+	Date: 2019-11-04 ; Times: 4
+	Date: 2019-11-16 ; Times: 1
+	Date: 2019-11-11 ; Times: 1
+	Date: 2019-11-01 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Urocyon stateprovince:&#34;California&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "window class:Aves year &gt;= 1960 year &lt;= 2018" ; Times: 1
+	Query: "family:Columbidae stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "antrozous pallidus" ; Times: 1
+	Query: "Pecari tajacu" ; Times: 1
+	Query: "Numida meleagris vntype:specimen order:Galliformes basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Passerina cyanea" ; Times: 1
+	Query: "order:rodentia county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "savannah sparrow" ; Times: 1
+	Query: "flammulated owl" ; Times: 1
+	Query: "specificepithet:carolinensis genus:sciurus" ; Times: 5
+	Query: "Corynorhinus townsendii" ; Times: 1
+	Query: "genus:Vulpes stateprovince:&#34;California&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "order:rodentia county:&#34;San Francisco&#34; stateprovince:&#34;California&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:minimus genus:Tamias stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "genus:Spilogale stateprovince:&#34;California&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Mephitis stateprovince:&#34;California&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+
+
+End of report.
