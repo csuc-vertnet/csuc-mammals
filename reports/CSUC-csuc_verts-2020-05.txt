@@ -1,0 +1,110 @@
+Report for Institution Code CSUC, Resource csuc_verts
+Usage stats for May 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 26
+Number of records retrieved in searches: 87
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 26
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-27 ; Times: 2
+	Date: 2020-05-09 ; Times: 1
+	Date: 2020-05-08 ; Times: 4
+	Date: 2020-05-07 ; Times: 15
+	Date: 2020-05-06 ; Times: 1
+	Date: 2020-05-12 ; Times: 1
+	Date: 2020-05-04 ; Times: 1
+	Date: 2020-05-01 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Anas fulvigula" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo lifestage:immature sex:male" ; Times: 1
+	Query: "genus:Onychomys county:&#34;Los Angeles&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen specificepithet:fulvigula genus:Anas lifestage:adult sex:male" ; Times: 1
+	Query: "vntype:specimen specificepithet:platyrhynchos genus:Anas lifestage:immature sex:female" ; Times: 1
+	Query: "specificepithet:trowbridgii genus:Sorex county:&#34;Alameda&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:autumnalis genus:Dendrocygna lifestage:immature sex:female" ; Times: 1
+	Query: "specificepithet:crecca genus:Anas lifestage:immature sex:female" ; Times: 1
+	Query: "vntype:specimen specificepithet:platyrhynchos genus:Anas lifestage:immature sex:male" ; Times: 1
+	Query: "vntype:specimen specificepithet:clypeata genus:Anas lifestage:immature sex:female" ; Times: 1
+	Query: "specificepithet:perotis genus:eumops haslength:1" ; Times: 1
+	Query: "specificepithet:acuta genus:Anas lifestage:adult sex:female" ; Times: 1
+	Query: "Neotoma lepida" ; Times: 4
+	Query: "genus:oreortyx stateprovince:&#34;california&#34; year &gt;= 1970 year &lt;= 2020" ; Times: 1
+	Query: "Anas diazi lifestage:adult sex:male" ; Times: 1
+	Query: "Neotoma cinerea" ; Times: 2
+	Query: "vntype:specimen specificepithet:clypeata genus:Anas lifestage:adult sex:female" ; Times: 1
+	Query: "American Kestrel year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "specificepithet:crecca genus:Anas lifestage:immature sex:male" ; Times: 1
+	Query: "Anas diazi sex:male" ; Times: 2
+	Query: "specificepithet:acuta genus:Anas lifestage:immature sex:male" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 34 (out of 1106 download events in this period)
+Total number of records downloaded: 563
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 25
+	Country: Unknown ; Times: 1
+	Country: Argentina ; Times: 2
+	Country: Germany ; Times: 1
+	Country: Mexico ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-30 ; Times: 7
+	Date: 2020-05-20 ; Times: 1
+	Date: 2020-05-23 ; Times: 1
+	Date: 2020-05-22 ; Times: 2
+	Date: 2020-05-31 ; Times: 2
+	Date: 2020-05-28 ; Times: 1
+	Date: 2020-05-19 ; Times: 1
+	Date: 2020-05-07 ; Times: 3
+	Date: 2020-05-09 ; Times: 1
+	Date: 2020-05-08 ; Times: 7
+	Date: 2020-05-10 ; Times: 1
+	Date: 2020-05-06 ; Times: 2
+	Date: 2020-05-04 ; Times: 1
+	Date: 2020-05-03 ; Times: 2
+	Date: 2020-05-15 ; Times: 1
+	Date: 2020-05-16 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "order:Rodentia stateprovince:Colorado" ; Times: 1
+	Query: "Birds Texas" ; Times: 1
+	Query: "Thryomanes bewickii" ; Times: 1
+	Query: "Jackson Oregon" ; Times: 1
+	Query: "order:Rodentia stateprovince:New Mexico" ; Times: 1
+	Query: "Anas diazi sex:male" ; Times: 1
+	Query: "Enhydra lutris" ; Times: 1
+	Query: "bone valley" ; Times: 1
+	Query: "Oncorhynchus mykiss" ; Times: 1
+	Query: "Puma concolor" ; Times: 2
+	Query: "specificepithet:alpinus stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "genus:Gulo" ; Times: 1
+	Query: "Fratercula cirrhata" ; Times: 2
+	Query: "Lontra canadensis" ; Times: 1
+	Query: "Accipiter hastissue:1" ; Times: 1
+	Query: "Martes americana" ; Times: 1
+	Query: "specificepithet:trowbridgii genus:sorex" ; Times: 1
+	Query: "procyon lotor" ; Times: 1
+	Query: "spilogale gracilis" ; Times: 1
+	Query: "mustela frenata" ; Times: 1
+	Query: "lynx rufus" ; Times: 1
+	Query: "american kestrel year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "Catostomus" ; Times: 1
+	Query: "Martes martes" ; Times: 1
+	Query: "Calcarius ornatus" ; Times: 1
+	Query: "Martes pennanti" ; Times: 1
+	Query: "bassariscus astutus" ; Times: 1
+	Query: "vntype:specimen genus:Mus haslength:1" ; Times: 1
+	Query: "genus:Martes" ; Times: 2
+	Query: "Lasiurus cinereus" ; Times: 1
+
+
+End of report.
