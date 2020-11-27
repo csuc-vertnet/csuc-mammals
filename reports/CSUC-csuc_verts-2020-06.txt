@@ -1,0 +1,113 @@
+Report for Institution Code CSUC, Resource csuc_verts
+Usage stats for June 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 69
+Number of records retrieved in searches: 286
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 27
+	Country: United Kingdom ; Times: 24
+	Country: United States ; Times: 15
+	Country: Peru ; Times: 2
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-15 ; Times: 2
+	Date: 2020-06-14 ; Times: 8
+	Date: 2020-06-04 ; Times: 1
+	Date: 2020-06-11 ; Times: 13
+	Date: 2020-06-03 ; Times: 29
+	Date: 2020-06-12 ; Times: 1
+	Date: 2020-06-29 ; Times: 2
+	Date: 2020-06-10 ; Times: 12
+	Date: 2020-06-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Phoebastria nigripes hasmass:1" ; Times: 1
+	Query: "Tachycineta bicolor hasmass:1" ; Times: 1
+	Query: "Rynchops niger hasmass:1" ; Times: 1
+	Query: "Cottus beldingii" ; Times: 6
+	Query: "Anas platyrhynchos hasmass:1" ; Times: 1
+	Query: "Zenaida macroura hasmass:1" ; Times: 2
+	Query: "Sialia mexicana hasmass:1" ; Times: 1
+	Query: "Larus argentatus hasmass:1" ; Times: 1
+	Query: "Buteo lineatus hasmass:1" ; Times: 1
+	Query: "Branta bernicla hasmass:1" ; Times: 1
+	Query: "Cottus aleuticus" ; Times: 6
+	Query: "Ameiurus catus" ; Times: 6
+	Query: "Larus californicus hasmass:1" ; Times: 1
+	Query: "Strix varia hasmass:1" ; Times: 1
+	Query: "Tyto alba hasmass:1" ; Times: 1
+	Query: "Accipiter gentilis hasmass:1" ; Times: 1
+	Query: "Buteo jamaicensis hasmass:1" ; Times: 2
+	Query: "Athene cunicularia hasmass:1" ; Times: 1
+	Query: "Ardea alba hasmass:1" ; Times: 1
+	Query: "Cathartes aura hasmass:1" ; Times: 1
+	Query: "Phalacrocorax auritus hasmass:1" ; Times: 1
+	Query: "Neotoma lepida" ; Times: 3
+	Query: "Haliaeetus leucocephalus hasmass:1" ; Times: 1
+	Query: "catalognumber: 3742" ; Times: 1
+	Query: "Branta canadensis hasmass:1" ; Times: 1
+	Query: "Anas penelope" ; Times: 6
+	Query: "Aquila chrysaetos hasmass:1" ; Times: 1
+	Query: "Centrocercus urophasianus" ; Times: 12
+	Query: "Accipiter cooperii hasmass:1" ; Times: 2
+	Query: "RT 286" ; Times: 2
+	Query: "Pelecanus erythrorhynchos hasmass:1" ; Times: 1
+	Query: "Larus delawarensis hasmass:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 28 (out of 474 download events in this period)
+Total number of records downloaded: 339
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 22
+	Country: Brazil ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-08 ; Times: 1
+	Date: 2020-06-09 ; Times: 1
+	Date: 2020-06-06 ; Times: 1
+	Date: 2020-06-02 ; Times: 3
+	Date: 2020-06-04 ; Times: 3
+	Date: 2020-06-11 ; Times: 5
+	Date: 2020-06-10 ; Times: 6
+	Date: 2020-06-03 ; Times: 5
+	Date: 2020-06-07 ; Times: 1
+	Date: 2020-06-01 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:novemcinctus genus:dasypus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "oncorhynchus kisutch" ; Times: 1
+	Query: "Dryocopus pileatus" ; Times: 1
+	Query: "Dasyprocta punctata" ; Times: 1
+	Query: "sea otter" ; Times: 1
+	Query: "california scrub jay" ; Times: 1
+	Query: "specificepithet:fuscescens genus:Catharus" ; Times: 1
+	Query: "Eptesicus fuscus (skin) year &gt;= 1960 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "american beaver" ; Times: 1
+	Query: "largemouth bass" ; Times: 1
+	Query: "muskrat" ; Times: 1
+	Query: "dasyprocta punctata" ; Times: 1
+	Query: "specificepithet:swinhoii order:galliformes" ; Times: 1
+	Query: "Myotis lucifugus (skin) year &gt;= 1960 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Catharus fuscescens" ; Times: 1
+	Query: "Arenaria interpres" ; Times: 1
+	Query: "scrub jay" ; Times: 2
+	Query: "specificepithet:pictus genus:oreortyx order:galliformes" ; Times: 1
+	Query: "Eptesicus fuscus continent:North America (skin OR fur AND United States OR USA) year &gt;= 1960 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "racoon" ; Times: 2
+	Query: "bald eagle" ; Times: 1
+	Query: "Eptesicus fuscus (skin) year &gt;= 1960 year &lt;= 2020" ; Times: 1
+	Query: "specificepithet:interpres genus:Arenaria" ; Times: 1
+	Query: "Strix occidentalis" ; Times: 1
+	Query: "specificepithet:floridanus genus:sylvilagus country:&#34;united states&#34;" ; Times: 1
+	Query: "Myotis lucifugus continent:North America (skin OR fur AND United States OR USA) year &gt;= 1960 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+
+
+End of report.
