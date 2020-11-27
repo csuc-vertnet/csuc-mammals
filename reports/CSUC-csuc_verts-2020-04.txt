@@ -1,0 +1,214 @@
+Report for Institution Code CSUC, Resource csuc_verts
+Usage stats for April 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 207
+Number of records retrieved in searches: 1251
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 48
+	Country: United Kingdom ; Times: 151
+	Country: Peru ; Times: 6
+	Country: Unknown ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-21 ; Times: 40
+	Date: 2020-04-06 ; Times: 1
+	Date: 2020-04-22 ; Times: 1
+	Date: 2020-04-20 ; Times: 2
+	Date: 2020-04-07 ; Times: 44
+	Date: 2020-04-26 ; Times: 6
+	Date: 2020-04-01 ; Times: 8
+	Date: 2020-04-02 ; Times: 1
+	Date: 2020-04-03 ; Times: 20
+	Date: 2020-04-08 ; Times: 39
+	Date: 2020-04-09 ; Times: 2
+	Date: 2020-04-27 ; Times: 8
+	Date: 2020-04-24 ; Times: 1
+	Date: 2020-04-19 ; Times: 4
+	Date: 2020-04-13 ; Times: 1
+	Date: 2020-04-12 ; Times: 4
+	Date: 2020-04-10 ; Times: 1
+	Date: 2020-04-17 ; Times: 3
+	Date: 2020-04-16 ; Times: 4
+	Date: 2020-04-15 ; Times: 3
+	Date: 2020-04-14 ; Times: 13
+	Date: 2020-04-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:ludovicianus genus:Cynomys haslength:1" ; Times: 1
+	Query: "Streptopelia decaocto" ; Times: 3
+	Query: "Ovis aries" ; Times: 10
+	Query: "Blepsias cirrhosus" ; Times: 3
+	Query: "Cottus beldingii" ; Times: 7
+	Query: "specificepithet:beecheyi genus:Otospermophilus haslength:1" ; Times: 4
+	Query: "V. vulpes" ; Times: 5
+	Query: "specificepithet:Carolinensis genus:Sciurus country:&#34;United States&#34; continent:North America sex:male institutioncode:CSUC lengthtype:total length haslength:1" ; Times: 1
+	Query: "specificepithet:pennanti genus:martes stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "BLACK FRANCOLIN" ; Times: 2
+	Query: "Rupicola peruvianus" ; Times: 2
+	Query: "specificepithet:coypus genus:Myocastor hasmass:1" ; Times: 1
+	Query: "Lavinia exilicauda" ; Times: 14
+	Query: "specificepithet:agilis genus:dipodomys county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:CSUC" ; Times: 1
+	Query: "Anas diazi sex:male" ; Times: 1
+	Query: "vntype:specimen order:Cypriniformes institutioncode:CSUC basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Fratercula corniculata" ; Times: 6
+	Query: "specificepithet:sponsa genus:Aix continent:North America lifestage:Adult haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "Aix galericulata" ; Times: 2
+	Query: "Cottus aleuticus" ; Times: 7
+	Query: "Northern Short-Tailed Shrew specificepithet:brevicauda genus:Blarina country:&#34;United States&#34; continent:North America sex:Male hassex:1 hasmass:1" ; Times: 4
+	Query: "Ameiurus catus" ; Times: 12
+	Query: "Sciaenops ocellatus" ; Times: 6
+	Query: "pangolin" ; Times: 1
+	Query: "Barn Owl hasmass:1" ; Times: 1
+	Query: "Lophonetta specularioides" ; Times: 6
+	Query: "P. aleuticus" ; Times: 6
+	Query: "Cygnus columbianus" ; Times: 5
+	Query: "Enophrys bison" ; Times: 5
+	Query: "specificepithet:merriami genus:tamias county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:CSUC" ; Times: 1
+	Query: "Prosopium coulterii" ; Times: 2
+	Query: "Anas diazi lifestage:Adult sex:Male" ; Times: 1
+	Query: "Junco hyemalis institutioncode:CSUC" ; Times: 1
+	Query: "Northern Short-Tailed Shrew specificepithet:brevicauda genus:Blarina country:&#34;United States&#34; continent:North America sex:Male institutioncode:CSUC hassex:1 hasmass:1" ; Times: 1
+	Query: "Anas platyrhynchos lifestage:immature sex:female AND (NOT diazi)" ; Times: 1
+	Query: "Anas penelope" ; Times: 11
+	Query: "specificepithet:tereticaudus genus:Xerospermophilus haslength:1" ; Times: 3
+	Query: "Lophura swinhoii" ; Times: 3
+	Query: "specificepithet:speciosus genus:tamias county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:CSUC" ; Times: 1
+	Query: "specificepithet:mohavensis genus:Xerospermophilus haslength:1" ; Times: 2
+	Query: "specificepithet:acuta genus:Anas continent:North America lifestage:ADULT haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "Anas platyrhynchos lifestage:immature sex:male AND (NOT diazi)" ; Times: 1
+	Query: "Manis pentadactyla" ; Times: 1
+	Query: "specificepithet:heermanni genus:dipodomys county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:CSUC" ; Times: 1
+	Query: "Clupea pallasii" ; Times: 5
+	Query: "genus:Erethizon hasmass:1" ; Times: 1
+	Query: "specificepithet:discors genus:Anas continent:North America lifestage:ADULT haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "Phasianus versicolor" ; Times: 3
+	Query: "Gymnogyps californianus" ; Times: 1
+	Query: "Junco hyemalis stateprovince:&#34;California&#34; institutioncode:CSUC" ; Times: 1
+	Query: "Alectoris chukar" ; Times: 6
+	Query: "Neotoma lepida" ; Times: 1
+	Query: "Fregata magnificens" ; Times: 3
+	Query: "Anas diazi" ; Times: 3
+	Query: "Anas platyrhynchos sex:male AND (diazi)" ; Times: 1
+	Query: "genus:sciurus county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:CSUC" ; Times: 1
+	Query: "genus:tamias county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:CSUC" ; Times: 1
+	Query: "Lasiurus blossevillii" ; Times: 6
+	Query: "specificepithet:affinis genus:Aythya continent:North America lifestage:ADULT haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "Siphateles bicolor" ; Times: 14
+	Query: "Spirinchus thaleichthys" ; Times: 5
+	Query: "vntype:specimen class:Actinopterygii institutioncode:CSUC basisofrecord:PreservedSpecimen" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 72 (out of 1171 download events in this period)
+Total number of records downloaded: 1717
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 59
+	Country: Canada ; Times: 4
+	Country: Argentina ; Times: 7
+	Country: Lithuania ; Times: 1
+	Country: India ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-21 ; Times: 5
+	Date: 2020-04-05 ; Times: 2
+	Date: 2020-04-06 ; Times: 1
+	Date: 2020-04-22 ; Times: 6
+	Date: 2020-04-23 ; Times: 4
+	Date: 2020-04-20 ; Times: 1
+	Date: 2020-04-07 ; Times: 4
+	Date: 2020-04-26 ; Times: 2
+	Date: 2020-04-01 ; Times: 2
+	Date: 2020-04-02 ; Times: 3
+	Date: 2020-04-03 ; Times: 1
+	Date: 2020-04-28 ; Times: 6
+	Date: 2020-04-29 ; Times: 2
+	Date: 2020-04-08 ; Times: 1
+	Date: 2020-04-27 ; Times: 2
+	Date: 2020-04-24 ; Times: 3
+	Date: 2020-04-25 ; Times: 4
+	Date: 2020-04-19 ; Times: 2
+	Date: 2020-04-18 ; Times: 1
+	Date: 2020-04-13 ; Times: 1
+	Date: 2020-04-12 ; Times: 3
+	Date: 2020-04-11 ; Times: 1
+	Date: 2020-04-17 ; Times: 3
+	Date: 2020-04-16 ; Times: 6
+	Date: 2020-04-15 ; Times: 1
+	Date: 2020-04-14 ; Times: 3
+	Date: 2020-04-30 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:macroura genus:Zenaida continent:North America lifestage:Adult haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "Streptopelia decaocto" ; Times: 1
+	Query: "specificepithet:leucurus genus:Ammospermophilus haslength:1" ; Times: 1
+	Query: "specificepithet:frenata genus:mustela haslength:1" ; Times: 1
+	Query: "vntype:specimen genus:Lasionycteris family:Vespertilionidae continent:North America" ; Times: 1
+	Query: "vntype:specimen order:Lagomorpha stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "specificepithet:pennanti genus:martes stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Pecari tajacu" ; Times: 1
+	Query: "specificepithet:Carolinensis genus:Sciurus country:&#34;United States&#34; continent:North America sex:male institutioncode:CSUC lengthtype:total length haslength:1" ; Times: 2
+	Query: "Rallus limicola" ; Times: 1
+	Query: "specificepithet:taxus genus:taxidea haslength:1" ; Times: 1
+	Query: "Puma concolor" ; Times: 7
+	Query: "geomyidae hassex:1 hasmass:1" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "genus:Lasiurus" ; Times: 1
+	Query: "specificepithet:sponsa genus:Aix continent:North America lifestage:Adult haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "specificepithet:beecheyi genus:Otospermophilus haslength:1" ; Times: 1
+	Query: "specificepithet:canadensis genus:lontra haslength:1" ; Times: 1
+	Query: "Barn Owl hasmass:1" ; Times: 1
+	Query: "genus:ochotona" ; Times: 1
+	Query: "genus:Erethizon haslength:1" ; Times: 1
+	Query: "Ursus americanus" ; Times: 1
+	Query: "Gallinago gallinago" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "Gasterosteus aculeatus" ; Times: 1
+	Query: "golden eagle" ; Times: 1
+	Query: "Aphelocoma californica" ; Times: 1
+	Query: "Passerina cyanea" ; Times: 1
+	Query: "genus:sciurus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Rallus longirostris" ; Times: 1
+	Query: "vntype:specimen family:Otariidae" ; Times: 1
+	Query: "specificepithet:canadensis genus:Branta continent:North America lifestage:Adult haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "specificepithet:brevicauda genus:blarina hasmass:1" ; Times: 1
+	Query: "vntype:specimen family:Tayassuidae" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo" ; Times: 1
+	Query: "Glaucomys sabrinus" ; Times: 1
+	Query: "specificepithet:tereticaudus genus:Xerospermophilus haslength:1" ; Times: 1
+	Query: "specificepithet:brasiliensis genus:tadarida stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "specificepithet:lateralis genus:callospermophilus haslength:1" ; Times: 1
+	Query: "Alces alces" ; Times: 1
+	Query: "specificepithet:acuta genus:Anas continent:North America lifestage:ADULT haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "Spizella passerina hasmass:1" ; Times: 1
+	Query: "Lynx rufus" ; Times: 1
+	Query: "Lepomis gulosus" ; Times: 1
+	Query: "genus:Gulo order:Carnivora" ; Times: 1
+	Query: "vntype:specimen genus:Glaucomys" ; Times: 1
+	Query: "genus:Erethizon hasmass:1" ; Times: 1
+	Query: "specificepithet:discors genus:Anas continent:North America lifestage:ADULT haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "Passerina amoena" ; Times: 1
+	Query: "specificepithet:brasiliensis genus:tadarida stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "specificepithet:coypus genus:Myocastor" ; Times: 1
+	Query: "Gymnogyps californianus" ; Times: 1
+	Query: "specificepithet:lutris genus:enhydra haslength:1" ; Times: 1
+	Query: "Burhinus capensis" ; Times: 1
+	Query: "Platalea ajaja Texas" ; Times: 1
+	Query: "specificepithet:californicus genus:Microtus stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "genus:Peromyscus stateprovince:&#34;Indiana&#34;" ; Times: 1
+	Query: "vntype:specimen family:Equidae" ; Times: 1
+	Query: "specificepithet:lateralis genus:Callospermophilus haslength:1" ; Times: 1
+	Query: "specificepithet:affinis genus:Aythya continent:North America lifestage:ADULT haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "vntype:specimen genus:Lontra" ; Times: 1
+	Query: "vntype:specimen family:Caviidae" ; Times: 1
+	Query: "urocitellus columbianus" ; Times: 1
+	Query: "heteromyidae hassex:1 hasmass:1" ; Times: 1
+
+
+End of report.
