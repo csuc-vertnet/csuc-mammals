@@ -1,0 +1,73 @@
+Report for Institution Code CSUC, Resource csuc_verts
+Usage stats for December 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 8
+Number of records retrieved in searches: 18
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 6
+	Country: United Kingdom ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-30 ; Times: 1
+	Date: 2019-12-21 ; Times: 1
+	Date: 2019-12-20 ; Times: 1
+	Date: 2019-12-23 ; Times: 1
+	Date: 2019-12-28 ; Times: 2
+	Date: 2019-12-06 ; Times: 1
+	Date: 2019-12-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "recordedby:Boolootian" ; Times: 1
+	Query: "mallard duck" ; Times: 2
+	Query: "tahoe specificepithet:BICOLOR genus:SIPHATELES" ; Times: 1
+	Query: "vntype:specimen specificepithet:tenellus genus:Sorex country:&#34;United States&#34;" ; Times: 1
+	Query: "recordedby:Leonard Scott" ; Times: 1
+	Query: "genus:Sula stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:spinatus family:Heteromyidae county:&#34;San Bernardino&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 15 (out of 596 download events in this period)
+Total number of records downloaded: 85
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 13
+	Country: Nepal ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-13 ; Times: 1
+	Date: 2019-12-18 ; Times: 1
+	Date: 2019-12-19 ; Times: 1
+	Date: 2019-12-09 ; Times: 2
+	Date: 2019-12-10 ; Times: 2
+	Date: 2019-12-11 ; Times: 1
+	Date: 2019-12-04 ; Times: 1
+	Date: 2019-12-03 ; Times: 1
+	Date: 2019-12-02 ; Times: 4
+	Date: 2019-12-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "aplodontia rufa" ; Times: 1
+	Query: "myotis yumanensis" ; Times: 1
+	Query: "specificepithet:thyroideus genus:Sphyrapicus stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "strix occidentalis" ; Times: 1
+	Query: "myotis melanorhinus" ; Times: 1
+	Query: "myotis volans" ; Times: 1
+	Query: "marmota monax" ; Times: 1
+	Query: "Sciurus carolinensis" ; Times: 1
+	Query: "myotis thysanodes" ; Times: 1
+	Query: "Spotted skunk" ; Times: 1
+	Query: "genus:Sula stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:amazona family:Psittacidae order:Psittaciformes" ; Times: 1
+	Query: "genus:Odobenus" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "manis pentadactyla" ; Times: 1
+
+
+End of report.
