@@ -1,0 +1,214 @@
+Report for Institution Code CSUC, Resource csuc_verts
+Usage stats for October 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 113
+Number of records retrieved in searches: 1154
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 58
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 28
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 11
+	Country: Austria ; Times: 3
+	Country: Germany ; Times: 8
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-10-09 ; Times: 2
+	Date: 2020-10-18 ; Times: 5
+	Date: 2020-10-19 ; Times: 1
+	Date: 2020-10-08 ; Times: 1
+	Date: 2020-10-12 ; Times: 2
+	Date: 2020-10-13 ; Times: 37
+	Date: 2020-10-30 ; Times: 10
+	Date: 2020-10-31 ; Times: 9
+	Date: 2020-10-20 ; Times: 2
+	Date: 2020-10-23 ; Times: 1
+	Date: 2020-10-22 ; Times: 3
+	Date: 2020-10-21 ; Times: 4
+	Date: 2020-10-02 ; Times: 1
+	Date: 2020-10-26 ; Times: 4
+	Date: 2020-10-25 ; Times: 1
+	Date: 2020-10-24 ; Times: 4
+	Date: 2020-10-01 ; Times: 4
+	Date: 2020-10-16 ; Times: 1
+	Date: 2020-10-28 ; Times: 11
+	Date: 2020-10-05 ; Times: 4
+	Date: 2020-10-04 ; Times: 2
+	Date: 2020-10-17 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "northern flicker (yellow-shafted)" ; Times: 1
+	Query: "Antelope Ground Squirrel" ; Times: 2
+	Query: "specificepithet:palmeri genus:tamias class:mammalia" ; Times: 1
+	Query: "Ovis aries" ; Times: 3
+	Query: "scientificname:Gulo gulo" ; Times: 1
+	Query: "class:mammalia county:&#34;santa barbara&#34; stateprovince:&#34;california&#34; institutioncode:CSUC" ; Times: 1
+	Query: "specificepithet:transmontanus genus:Acipenser stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "specificepithet:alpinus genus:tamias class:mammalia institutioncode:CSUC" ; Times: 1
+	Query: "Cygnus columbianus" ; Times: 1
+	Query: "Ovibos moschatus" ; Times: 1
+	Query: "california wolverine" ; Times: 1
+	Query: "specificepithet:palmeri genus:tamias class:mammalia institutioncode:CSUC" ; Times: 1
+	Query: "Apodichthys flavidus" ; Times: 1
+	Query: "Fratercula corniculata" ; Times: 1
+	Query: "Myliobatis californica" ; Times: 1
+	Query: "class:mammalia county:&#34;ventura&#34; stateprovince:&#34;california&#34; institutioncode:CSUC" ; Times: 1
+	Query: "class:Mammalia continent:North America year &gt;= 1800 year &lt;= 2015 institutioncode:CSUC" ; Times: 1
+	Query: "specificepithet:dorsatum genus:Erethizon family:Erethizontidae order:Rodentia class:Mammalia hasmass:1 haslength:1" ; Times: 1
+	Query: "order:passeriformes lifestage:adult institutioncode:CSUC hasmass:1" ; Times: 1
+	Query: "specificepithet:dorsalis genus:tamias class:mammalia institutioncode:CSUC" ; Times: 1
+	Query: "Lavinia exilicauda" ; Times: 1
+	Query: "pangolin" ; Times: 5
+	Query: "genus:Rynchops basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Erethizon dorsatum sex:female hasmass:1" ; Times: 1
+	Query: "genus:Agapornis hasmass:1" ; Times: 8
+	Query: "Erethizon dorsatum hasmass:1" ; Times: 1
+	Query: "class:Mammalia continent:North America institutioncode:CSUC" ; Times: 1
+	Query: "Antilocapra americana" ; Times: 2
+	Query: "Enophrys bison" ; Times: 1
+	Query: "scientificname:Streptopelia decaocto" ; Times: 1
+	Query: "Erethizon dorsatum hasmass:1 haslength:1" ; Times: 3
+	Query: "hamster" ; Times: 2
+	Query: "specificepithet:cinereicollis genus:tamias class:mammalia institutioncode:CSUC" ; Times: 1
+	Query: "class:mammalia county:&#34;san diego&#34; stateprovince:&#34;california&#34; institutioncode:CSUC" ; Times: 1
+	Query: "scientificname:Tadorna ferruginea" ; Times: 1
+	Query: "specificepithet:fuscipes genus:neotoma county:&#34;san diego&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "specificepithet:amoenus genus:tamias class:mammalia institutioncode:CSUC" ; Times: 1
+	Query: "class:mammalia county:&#34;san luis obispo&#34; stateprovince:&#34;california&#34; institutioncode:CSUC" ; Times: 1
+	Query: "Canis latrans stateprovince:&#34;California&#34; country:&#34;United States&#34; hasmass:1" ; Times: 1
+	Query: "specificepithet:kisutch stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:fuscipes genus:neotoma county:&#34;orange&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "specificepithet:discors genus:Anas continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "specificepithet:alpinus genus:tamias class:mammalia" ; Times: 2
+	Query: "scientificname:Crax alector" ; Times: 1
+	Query: "genus:Rynchops" ; Times: 1
+	Query: "Leptonycteris tucson" ; Times: 1
+	Query: "North American Porcupine hasmass:1 haslength:1" ; Times: 1
+	Query: "Clupea pallasii" ; Times: 1
+	Query: "specificepithet:minimus genus:tamias class:mammalia institutioncode:CSUC" ; Times: 2
+	Query: "specificepithet:ingens genus:Dipodomys hassex:1 hasmass:1" ; Times: 2
+	Query: "specificepithet:quadrimaculatus genus:tamias class:mammalia institutioncode:CSUC" ; Times: 1
+	Query: "pika stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "Erethizontidae hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:ruficaudus genus:tamias class:mammalia institutioncode:CSUC" ; Times: 1
+	Query: "specificepithet:panamintinus genus:tamias class:mammalia institutioncode:CSUC" ; Times: 1
+	Query: "scientificname:Aix sponsa" ; Times: 24
+	Query: "scientificname:Procyon lotor" ; Times: 2
+	Query: "alpine chipmunk" ; Times: 4
+	Query: "recordedby:Beckwith" ; Times: 2
+	Query: "Erethizon dorsatum sex:Male hasmass:1" ; Times: 1
+	Query: "specificepithet:ochrogenys genus:tamias class:mammalia institutioncode:CSUC" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 79 (out of 1521 download events in this period)
+Total number of records downloaded: 6300
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 5
+	Country: India ; Times: 1
+	Country: United States ; Times: 70
+	Country: Peru ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-10-23 ; Times: 5
+	Date: 2020-10-18 ; Times: 2
+	Date: 2020-10-20 ; Times: 13
+	Date: 2020-10-27 ; Times: 2
+	Date: 2020-10-30 ; Times: 1
+	Date: 2020-10-24 ; Times: 1
+	Date: 2020-10-12 ; Times: 3
+	Date: 2020-10-13 ; Times: 3
+	Date: 2020-10-02 ; Times: 3
+	Date: 2020-10-05 ; Times: 4
+	Date: 2020-10-31 ; Times: 10
+	Date: 2020-10-07 ; Times: 1
+	Date: 2020-10-06 ; Times: 1
+	Date: 2020-10-19 ; Times: 2
+	Date: 2020-10-21 ; Times: 2
+	Date: 2020-10-14 ; Times: 6
+	Date: 2020-10-28 ; Times: 13
+	Date: 2020-10-15 ; Times: 2
+	Date: 2020-10-16 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen genus:Mus" ; Times: 1
+	Query: "vntype:specimen family:Ramphastidae" ; Times: 1
+	Query: "Mimus polyglottos" ; Times: 1
+	Query: "class:Mammalia continent:North America year &gt;= 1800 year &lt;= 2015 institutioncode:CSUC" ; Times: 1
+	Query: "vntype:specimen specificepithet:cunicularia genus:athene" ; Times: 1
+	Query: "class:Mammalia country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:Carolinensis genus:Sciurus haslength:1" ; Times: 1
+	Query: "order:Rodentia stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "specificepithet:alpinus genus:Tamias stateprovince:&#34;california&#34;" ; Times: 2
+	Query: "specificepithet:affinis genus:Aythya continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "specificepithet:vulpes genus:vulpes" ; Times: 2
+	Query: "genus:Catharus hasmass:1" ; Times: 1
+	Query: "order:passeriformes lifestage:adult institutioncode:CSUC hasmass:1" ; Times: 1
+	Query: "sciurus carolinensis" ; Times: 1
+	Query: "Erethizontidae hasmass:1 haslength:1" ; Times: 1
+	Query: "Sciurus griseus" ; Times: 1
+	Query: "specificepithet:Carolinensis genus:Sciurus" ; Times: 2
+	Query: "erethizon dorsatum" ; Times: 1
+	Query: "Rupicola peruvianus" ; Times: 1
+	Query: "Sorex palustris" ; Times: 2
+	Query: "specificepithet:moschatus genus:ovibos" ; Times: 1
+	Query: "specificepithet:concolor family:felidae stateprovince:&#34;california&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Dasyprocta" ; Times: 1
+	Query: "tachycineta bicolor hassex:1 hasmass:1" ; Times: 1
+	Query: "recordedby:Beckwith" ; Times: 1
+	Query: "specificepithet:varia genus:strix" ; Times: 1
+	Query: "Procyon lotor" ; Times: 1
+	Query: "specificepithet:acuta genus:Anas continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "didelphis virginiana" ; Times: 1
+	Query: "genus:Lepus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Taxidea taxus" ; Times: 1
+	Query: "specificepithet:carolinensis genus:sciurus haslength:1" ; Times: 2
+	Query: "specificepithet:lotor genus:procyon lengthtype:total length hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "Lynx rufus" ; Times: 1
+	Query: "specificepithet:latrans genus:canis stateprovince:&#34;california&#34; country:&#34;United States&#34; year &gt;= 1950" ; Times: 1
+	Query: "vntype:specimen specificepithet:umbellus genus:bonasa preparations:skin basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:canadensis genus:Branta continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:lewis genus:melanerpes country:&#34;United States&#34;" ; Times: 1
+	Query: "Otospermophilus beecheyi" ; Times: 1
+	Query: "Martes americana" ; Times: 1
+	Query: "pangolin" ; Times: 1
+	Query: "Martes pennanti" ; Times: 1
+	Query: "Canis latrans" ; Times: 1
+	Query: "specificepithet:macroura genus:Zenaida continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "Myotis" ; Times: 1
+	Query: "skin vntype:specimen genus:Nucifraga columbiana country:&#34;United States&#34;" ; Times: 1
+	Query: "Bassariscus astutus" ; Times: 1
+	Query: "specificepithet:discors genus:Anas continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "Gulo gulo" ; Times: 1
+	Query: "specificepithet:rufus genus:lynx stateprovince:&#34;california&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "daphne" ; Times: 1
+	Query: "specificepithet:migratorius genus:Turdus continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "lynx rufus" ; Times: 1
+	Query: "order:pholidota" ; Times: 1
+	Query: "pika" ; Times: 2
+	Query: "bald eagle" ; Times: 2
+	Query: "specificepithet:ingens genus:Dipodomys hassex:1 hasmass:1" ; Times: 1
+	Query: "specificepithet:striatus genus:Accipiter continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "vntype:specimen order:Coraciiformes" ; Times: 1
+	Query: "specificepithet:platyrhynchos genus:Anas continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "Blarina brevicauda" ; Times: 2
+	Query: "specificepithet:sponsa genus:Aix continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "Canis lupus" ; Times: 1
+	Query: "specificepithet:crecca genus:Anas continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "specificepithet:calendula genus:Regulus continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 2
+	Query: "pika stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:cooperii genus:Accipiter continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "specificepithet:lupus genus:canis" ; Times: 3
+
+
+End of report.
