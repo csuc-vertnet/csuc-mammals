@@ -1,0 +1,122 @@
+Report for Institution Code CSUC, Resource csuc_verts
+Usage stats for December 2020, generated on 2021/01/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 45
+Number of records retrieved in searches: 496
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 18
+	Country: United Kingdom ; Times: 9
+	Country: India ; Times: 2
+	Country: Spain ; Times: 8
+	Country: France ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-20 ; Times: 1
+	Date: 2020-12-23 ; Times: 4
+	Date: 2020-12-22 ; Times: 1
+	Date: 2020-12-03 ; Times: 5
+	Date: 2020-12-01 ; Times: 1
+	Date: 2020-12-08 ; Times: 2
+	Date: 2020-12-07 ; Times: 1
+	Date: 2020-12-11 ; Times: 2
+	Date: 2020-12-30 ; Times: 6
+	Date: 2020-12-04 ; Times: 4
+	Date: 2020-12-14 ; Times: 13
+	Date: 2020-12-02 ; Times: 4
+	Date: 2020-12-16 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "neotoma fuscipes (bone)" ; Times: 2
+	Query: "Ovis aries" ; Times: 1
+	Query: "neotoma fuscipes bone (streatori OR simplex OR luciana OR macrotis OR martirensis)" ; Times: 2
+	Query: "scientificname:Remora osteochir" ; Times: 1
+	Query: "genus:Ammodytes stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "scientificname:Squalus acanthias" ; Times: 2
+	Query: "Neotoma cinerea" ; Times: 2
+	Query: "Ameiurus catus" ; Times: 1
+	Query: "scientificname:Mustelus mustelus" ; Times: 2
+	Query: "scientificname:Procyon lotor" ; Times: 8
+	Query: "specificepithet:embryum genus:Clinocottus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "scientificname:Trichiurus lepturus" ; Times: 1
+	Query: "Lavinia exilicauda" ; Times: 3
+	Query: "Sciaenops ocellatus" ; Times: 1
+	Query: "genus:Enophrys stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:dorsalis genus:tamias institutioncode:CSUC" ; Times: 1
+	Query: "specificepithet:limicola genus:Rallus stateprovince:&#34;California&#34; year &gt;= 1990 year &lt;= 2000 month &gt;= 4 month &lt;= 8" ; Times: 1
+	Query: "specificepithet:globiceps genus:Clinocottus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Paroaria coronata" ; Times: 1
+	Query: "indian squirrel" ; Times: 2
+	Query: "scientificname:Remora remora" ; Times: 1
+	Query: "specificepithet:purpurescens genus:Anoplarchus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "pika" ; Times: 1
+	Query: "specificepithet:melanops genus:Sebastes stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "scientificname:Sphyrna zygaena" ; Times: 1
+	Query: "specificepithet:atropurpureus genus:Xiphister stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Cygnus columbianus" ; Times: 1
+	Query: "specificepithet:minimus genus:tamias institutioncode:CSUC" ; Times: 1
+	Query: "Siphateles bicolor" ; Times: 1
+	Query: "neotoma fuscipes streatori (bone)" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 24 (out of 705 download events in this period)
+Total number of records downloaded: 3321
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Romania ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 3
+	Country: India ; Times: 1
+	Country: United States ; Times: 15
+	Country: Germany ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-31 ; Times: 1
+	Date: 2020-12-06 ; Times: 1
+	Date: 2020-12-15 ; Times: 2
+	Date: 2020-12-09 ; Times: 1
+	Date: 2020-12-08 ; Times: 1
+	Date: 2020-12-07 ; Times: 3
+	Date: 2020-12-11 ; Times: 1
+	Date: 2020-12-12 ; Times: 3
+	Date: 2020-12-04 ; Times: 1
+	Date: 2020-12-03 ; Times: 5
+	Date: 2020-12-02 ; Times: 3
+	Date: 2020-12-16 ; Times: 1
+	Date: 2020-12-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Picoides specificepithet:arcticus*" ; Times: 1
+	Query: "genus:Anas" ; Times: 1
+	Query: "family:sciuridae" ; Times: 1
+	Query: "genus:Tamiasciurus specificepithet:.*" ; Times: 1
+	Query: "family:anatidae" ; Times: 1
+	Query: "Ursus maritimus" ; Times: 1
+	Query: "family:Muridae hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:dorsalis genus:tamias institutioncode:CSUC" ; Times: 1
+	Query: "genus:Ondatra stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Tadarida brasiliensis" ; Times: 1
+	Query: "Odobenus rosmarus" ; Times: 1
+	Query: "genus:Lepus" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "genus:Martes specificepithet:americana*" ; Times: 1
+	Query: "genus:Picoides specificepithet:arcticus" ; Times: 1
+	Query: "Gymnogyps californianus" ; Times: 1
+	Query: "genus:Rangifer tarandus" ; Times: 1
+	Query: "canis latrans" ; Times: 1
+	Query: "anas platyrhynchos" ; Times: 1
+	Query: "genus:Tamiasciurus specificepithet:hudsonicus*" ; Times: 1
+	Query: "mallard" ; Times: 1
+	Query: "specificepithet:minimus genus:tamias institutioncode:CSUC" ; Times: 1
+	Query: "Woodpecker" ; Times: 1
+	Query: "family:Felidae year &gt;= 2000 year &lt;= 2020" ; Times: 1
+
+
+End of report.
